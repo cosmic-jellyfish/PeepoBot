@@ -1,4 +1,4 @@
-## Changelog v1 (13/09/2018)
+## Changelog v1 `13/09/2018`
 ***
 | Command       | Catergory          | Action  |
 | ------------- |:-------------:| -----:| 
