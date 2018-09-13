@@ -18,8 +18,6 @@ Looking for changes? Look for the `new` tag.
 | Command       | Catergory          | Description  |
 | ------------- |:-------------:| -----:| 
 
-
-
 ***
 
 ## Help
@@ -31,11 +29,12 @@ Looking for changes? Look for the `new` tag.
 | menustatus | Shows various information on the current build of the Mod Menu. |
 
 ***
+***
 
 ## Info
 
 | Command  | Description |
-| ------------- | ------------- |
+| :------------- | :-------------: |
 | avatar  | Shows avatar of a specified user of your Discord server. |
 | channelID  | Shows ID of a specified channel of your Discord server.  |
 | channelInfo       | Shows information of a specified text or voice channel of your Discord server.   |
@@ -56,13 +55,14 @@ Looking for changes? Look for the `new` tag.
 | viewPermissions  | Shows the permissions you have in the server/channel. |
 
 ***
+***
 
 ## Voice commands
 | Command  | Description |
-| ------------- | ------------- |
-| Airhorn | Plays an airhorn in a voice channel. How fucking pointless. |
-| Thot  | Plays "Be Gone Thot" in a voice channel. How fucking pointless. |
-| Yee   | Plays the "Yee" Dinosaur in a voice channel. How fucking pointless. |
+| :------------- | :-------------: |
+| Airhorn | Plays an airhorn in a voice channel. How to annoy everyone 101. |
+| Thot  | Plays "Be Gone Thot" in a voice channel. *You're a thot* |
+| Yee   | Plays the "Yee" Dinosaur in a voice channel. |
 | Touch | Plays "Who touched my spaget?" Is that how you say it? Anyway.. in a voice channel. Fuck me. |
 | Zing   | Okay. I'm not telling you what this one does. Figure it out. Play it. I fucking dare you. |
 | FBI  | Plays the generic "FBI OPEN UP" in a voice channel. They want their meme back. |
@@ -72,10 +72,11 @@ Looking for changes? Look for the `new` tag.
 | Beach  | Steppin' on a beach do do do |
 
 ***
+***
 
 ## NSFW commands
 | Command  | Description |
-| ------------- | ------------- |
+| :------------- | :-------------: |
 | Boobs | Obtains a random image of Boobs from an API. (*Hello left hand, it's me*) |
 | Ass  | Obtains a random image of Ass from an API. (*Hello right hand, it's me*) |
 | Porngif | Obtains a random gif of a pornographic environment. (*Hello Technology? I'd like to thank you.*) |
@@ -83,11 +84,11 @@ Looking for changes? Look for the `new` tag.
 | Hentai  | Obtains a random image/gif of..*sigh*..Hentai.. from an API. (*Hello Police? I'd like to report a crime.*) |
 
 ***
+***
 
 ## Fun
 | Command  | Description |
-| ------------- | ------------- |
-| Insult | Insult the fuck out of somebody. |
+| :------------- | :-------------: |
 | Animoji   |   Sends a large version of the specified animated emoji of your Discord server. |
 | beLikeBill |    Send a "be like bill meme" to make you feel morally superior to others. |
 | BlockText | Sends the given text as text emojis. |
@@ -128,10 +129,11 @@ Looking for changes? Look for the `new` tag.
 | vine | GUCCI. VINES THAT CURE MY DEPRESSION. | 
 
 ***
+***
 
 ## Image-manipulation commands
 | Command  | Description |
-| ------------- | ------------- |
+| :------------- | :-------------: |
 | JPEG   | Providing a link with said command will make it *high quality* jpeg. |
 | Magik  | Providing a link with said command will make it *magik* [laughs in african] |
 | changemymind   | Hey. Change my mind on them wanting this meme back. Doubt they do. |
@@ -140,10 +142,11 @@ Looking for changes? Look for the `new` tag.
 | Clyde  | Generate a message from the default discord bot. | 
 
 ***
+***
 
 ## Game Stats
 | Command  | Description |
-| ------------- | ------------- |
+| :------------- | :-------------: |
 | battlefield1 | 	Get stats of any Battlefield 1 player. |
 | battlefield4       |   Get stats of any Battlefield 4 player. |
 | destiny2  | Get stats of any Destiny 2 player. |
@@ -153,10 +156,11 @@ Looking for changes? Look for the `new` tag.
 | rainbow6     |   Get stats of any Rainbow Six player. |
 
 ***
+***
 
 ## Mini Games
 | Command  | Description |
-| ------------- | ------------- |
+| :------------- | :-------------: |
 | flip    |   	Flips the specified amount of coins and shows you the outcomes. |
 | magic8ball       |   Will you die? Will you live. Have the 8ball tell you. |
 | roll   | 	Rolls the specified amount of dice and shows you the outcomes. |
@@ -165,14 +169,15 @@ Looking for changes? Look for the `new` tag.
 | slots   |    Spins the reels of the slot machine and shows you the result. |
 | thisOrThat  | 	Asks a this or that question. See how you and your friends choose! |
 | wouldYouRather    | Shows a would you rather situation. I'd rather neck though. |
+| Insult | Insult the fuck out of somebody. |
 
-
+***
 ***
 
 ## Queries
 
 | Command  | Description |
-| ------------- | ------------- |
+| :------------- | :-------------: |
 | generateembed  | Generate your own embeded message. Look cool. Stand out. Be gay. I DON'T FUCKING CARE |
 | anime  | Searches for the details of an Anime. |
 | calculate  | Evaluates any mathematical expression. |
@@ -199,11 +204,12 @@ Looking for changes? Look for the `new` tag.
 | suggest  | Suggest anything and everything to me. |
 
 ***
+***
 
 ## Moderation
 
 | Command  | Description |
-| ------------- | ------------- |
+| :------------- | :-------------: |
 | addRole | Adds the specified role to a specified user of your Discord server. |
 | ban  | Bans the specified user from your Discord server and removes 7 days of their message history. |
 | unban  | You know what this does. |
@@ -215,8 +221,7 @@ Looking for changes? Look for the `new` tag.
 | listWarns  | 	Lists all the warned users of your Discord Server. |
 | removeAllRoles  | Removes all the roles from the specified user of your Discord server. |
 | removeRole   | Removes the specified role from a specified user of your Discord server. |
-| warn   | Warns the specified user. If three warns are given, some action, specified by the warnAction command (previously), is taken. |
-| warnAction  | Sets the warn action for the server. |
+| warn   | Warns the specified user. If three warns are given, some action, created by the warnAction command, is taken. |
+| warnAction  | Sets the warn action for the server {*Used for above command*}. |
 | mute  | Mute a specific user for a certain period of time | 
 | unmute  | Unmute a user that is currently muted. | 
-
