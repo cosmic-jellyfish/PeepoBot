@@ -23,8 +23,15 @@ Looking for changes? Look for the `new` tag.
 ***
 
 ## Help
+| Command  | Action |
+| ------------- | ------------- |
+| changelog  | Get the latest information on the current build, and what's changed. |
+| commands  | Directly messages you a list of commands  |
+| help       | Shows help on the specified command.   |
+| menustatus | Help | Shows various information on the current build of the Mod Menu. |
 
-| Command       | Catergory          | Action  |
+
+| Action  |
 | ------------- |:-------------:| -----:|
 | changelog    | Help | 	Get the latest information on the current build, and what's changed. |
 | commands    | Help | 	Directly messages you a list of commands |
