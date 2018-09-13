@@ -21,5 +21,4 @@
 | emojiInfo | Changed formatting + changed embed colour to black. | 
 | userlookup | Changed formatting + changed embed colour to black.| 
 | BlockText | Changed internal code to stop an error sending back to me. | 
-
 ***
