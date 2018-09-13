@@ -23,7 +23,7 @@ Looking for changes? Look for the `new` tag.
 ***
 
 ## Help
-| Command  | Action |
+| Command  | Description |
 | ------------- | ------------- |
 | changelog  | Get the latest information on the current build, and what's changed. |
 | commands  | Directly messages you a list of commands  |
@@ -42,26 +42,26 @@ Looking for changes? Look for the `new` tag.
 
 ## Info
 
-| Command       | Catergory          | Action  |
-| ------------- |:-------------:| -----:|
-| avatar    | Info | 	Shows avatar of a specified user of your Discord server |
-| channelID    | Info | 	Shows ID of a specified channel of your Discord server. |
-| channelInfo    | Info | 	Shows information of a specified text or voice channel of your Discord server. |
-| channelTopic    | Info | 	Shows the channel topic of text channel of your Discord server. (Beyond pointless) |
-| checkPermissions    | Info | 	Shows the permissions Cuck Bot has in the server/channel. |
-| commandAnalytics    | Info | 	Shows the most over-used commands the server uses |
-| emojiInfo     | Info | 	Shows information of a specified emoji of your Discord server. |
-| inRole    | Info | 	Shows members that have a specified role in your Discord server. |
-| ping    | Info | 	Shows the response time and average WebSocket ping of Cuck Bot. |
-| roleID    | Info | 	Shows the ID of a specified role of your Discord server.|
-| roleInfo    | Info | 	Shows information of a specified role of your Discord server. |
-| serverID    | Info | 		Shows the ID of your Discord server. |
-| serverInfo    | Info | 	Shows information of your Discord server. |
-| stats    | Info | 	Shows detailed stats and info of Cuck Bot. |
-| userID    | Info | 	Shows ID of a specified user of your Discord server. |
-| userInfo     | Info | Shows information of a specified user of your Discord server. |
-| userLookup    | Info | 	Fetches basic information of a user from Discord. |
-| viewPermissions    | Info | Shows the permissions you have in the server/channel. |
+| Command  | Description |
+| ------------- | ------------- |
+| avatar  | Shows avatar of a specified user of your Discord server. |
+| channelID  | Shows ID of a specified channel of your Discord server.  |
+| channelInfo       | Shows information of a specified text or voice channel of your Discord server.   |
+| channelTopic | Shows the channel topic of text channel of your Discord server. (Beyond pointless) |
+| checkPermissions | 	Shows the permissions Cuck Bot has in the server/channel. |
+| commandAnalytics | 	Shows the most over-used commands the server uses |
+| emojiInfo | 	Shows information of a specified emoji of your Discord server. |
+| inRole  | 	Shows members that have a specified role in your Discord server. |
+| ping   | 	Shows the response time and average WebSocket ping of Cuck Bot. |
+| roleID | 	Shows the ID of a specified role of your Discord server.|
+| roleInfo  | 	Shows information of a specified role of your Discord server. |
+| serverID  | 		Shows the ID of your Discord server. |
+| serverInfo  | 	Shows information of your Discord server. |
+| stats | 	Shows detailed stats and info of Cuck Bot. |
+| userID  | 	Shows ID of a specified user of your Discord server. |
+| userInfo  | Shows information of a specified user of your Discord server. |
+| userLookup   | 	Fetches basic information of a user from Discord. |
+| viewPermissions  | Shows the permissions you have in the server/channel. |
 
 ***
 
