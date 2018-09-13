@@ -24,7 +24,7 @@ Looking for changes? Look for the `new` tag.
 
 ## Help
 | Command  | Description |
-| ------------- | -------------: |
+| :------------- | :-------------: |
 | changelog  | Get the latest information on the current build, and what's changed. |
 | commands  | Directly messages you a list of commands  |
 | help       | Shows help on the specified command.   |
