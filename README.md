@@ -15,7 +15,7 @@ Looking for changes? Look for the `new` tag.
 ## Beta shit / HOTFIXES(`upcoming / not out yet`)
 `updated as of 13th, Sept.`
 
-| Command       | Catergory          | Action  |
+| Command       | Catergory          | Description  |
 | ------------- |:-------------:| -----:| 
 
 
@@ -23,8 +23,8 @@ Looking for changes? Look for the `new` tag.
 ***
 
 ## Help
-| Command  | | Description |
-| ------------- | |------------- |
+| Command  | Description |
+| ------------- | -------------: |
 | changelog  | Get the latest information on the current build, and what's changed. |
 | commands  | Directly messages you a list of commands  |
 | help       | Shows help on the specified command.   |
