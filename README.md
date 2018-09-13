@@ -29,7 +29,7 @@ Looking for changes? Look for the `new` tag.
 | changelog  | Get the latest information on the current build, and what's changed. |
 | commands  | Directly messages you a list of commands  |
 | help       | Shows help on the specified command.   |
-| menustatus | Shows various information on the current build of the Mod Menu. |
+| menustatus | Shows various information on the current build of the GTA Mod-Menu. |
 
 ***
 ***
