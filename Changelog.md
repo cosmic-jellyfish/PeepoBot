@@ -1,13 +1,13 @@
 ## Changelog v1 `13/09/2018`
 ***
-# New Features
+### New Features
 | Command       | Catergory          | Action  |
 | ------------- |:-------------:| -----:| 
 | wow | Game_Stats | Gather information on a World Of Warcraft player. | 
 | penissize | Fun | See how big yours / someone else's dick is. #nohomo | 
 | bug | Info | Send a bug report directly to a channel dedicated for it. | 
 
-# Tweaked Features
+### Tweaked Features
 | Command  | Tweaked Description |
 | ------------- | ------------- |
 | suggest |  Now shows user.id in forwarded message. | 
