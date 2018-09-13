@@ -3,7 +3,7 @@
 `## Peepo Version - 1.0 ##`
 
 # Peepo Bot Command list:
-### `*Prefix is $`.
+### `*Prefix is $*`.
 *Suggestion - add peepo-muted as a role and put it to the top. No permissions required.*
 
 Looking for changes? Look for the `new` tag.
