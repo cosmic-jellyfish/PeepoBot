@@ -96,8 +96,6 @@ Looking for changes? Look for the `new` tag.
 | beLikeBill |    Send a "be like bill meme" to make you feel morally superior to others. |
 | BlockText | Sends the given text as text emojis. |
 | cat   |   Send a random pussy to the discord. |
-| catfact   |    Send a random pussy fact to the discord. Because, pussy. |
-| catify  | 	Generates a random kitten image from the given string or your Discord tag if no string is specified. |
 | crimeCoefficient    |   Find the crime coefficient of a user. |
 | dog  |    Now. We. are. talking. Send a good boy to the discord. |
 | edgeLord    |   Shows a message from an edge lord. |
