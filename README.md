@@ -7,7 +7,7 @@
 *Peepo automatically creates a role called - **peepo:muted** when using `$mute` command*
 ***
 
-## Help
+## 𝗛𝗘𝗟𝗣
 | Command  | Description |
 | :------------- | :-------------: |
 | Bugreport | Send a bug report directly to my designated channel. |
@@ -20,7 +20,7 @@
 ***
 ***
 
-## Info
+## 𝗜𝗡𝗙𝗢
 
 | Command  | Description |
 | :------------- | :-------------: |
@@ -46,7 +46,7 @@
 ***
 ***
 
-## Voice commands
+## 𝗩𝗢𝗜𝗖𝗘_𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦
 | Command  | Description |
 | :------------- | :-------------: |
 | Airhorn | Plays an airhorn in a voice channel. How to annoy everyone 101. |
@@ -61,7 +61,7 @@
 ***
 ***
 
-## NSFW commands
+## 𝗡𝗦𝗙𝗪
 | Command  | Description |
 | :------------- | :-------------: |
 | 4Kporn | Obtains a random HIGH QUALITY IMAGE of porn. (*Hello Quality? I'd like to invest in 8K some time.*) |
@@ -79,7 +79,7 @@
 ***
 ***
 
-## Fun
+## 𝗙𝗨𝗡
 | Command  | Description |
 | :------------- | :-------------: |
 | BeLikeBill |    Send a "be like bill meme" to make you feel morally superior to others. |
@@ -106,7 +106,7 @@
 ***
 ***
 
-## Image-manipulation commands
+## 𝗜𝗠𝗔𝗚𝗘-𝗠𝗔𝗡𝗜𝗣𝗨𝗟𝗔𝗧𝗜𝗢𝗡
 | Command  | Description |
 | :------------- | :-------------: |
 | Achievement   | Generate a shitty minecraft achievement. *I'll provide one when you die as well* |
@@ -127,7 +127,7 @@
 ***
 ***
 
-## Game Stats
+## 𝗚𝗔𝗠𝗘_𝗦𝗧𝗔𝗧𝗦
 | Command  | Description |
 | :------------- | :-------------: |
 | Ark | Get information on a speicfic server you provide. |
@@ -150,7 +150,7 @@
 ***
 ***
 
-## Queries
+## 𝗤𝗨𝗘𝗥𝗜𝗘𝗦
 
 | Command  | Description |
 | :------------- | :-------------: |
@@ -178,7 +178,7 @@
 ***
 ***
 
-## Moderation
+## 𝗠𝗢𝗗𝗘𝗥𝗔𝗧𝗜𝗢𝗡
 
 | Command  | Description |
 | :------------- | :-------------: |
