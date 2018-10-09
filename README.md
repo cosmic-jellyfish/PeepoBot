@@ -158,7 +158,7 @@
 | Calculate  | Evaluates any mathematical expression. |
 | Choose | Asks the bot to choose an option from a number of options. |
 | Date   | Shows the local date and time of any specified city. |
-| dDefine    | Searches the definition of the specified word from English, French or German dictionary. |
+| Define    | Searches the definition of the specified word from English, French or German dictionary. |
 | EndPoll | End a poll. | 
 | Forecast   | Shows the weather forecast for 5 days of the specified city. |
 | Game   | Searches for the details of a Game. |
