@@ -4,7 +4,7 @@
 
 # Peepo Bot Command list:
 ### `*Prefix is $*`.
-*The automatically creates a role called - **peepo:muted** when using `$mute` command*
+*Peepo automatically creates a role called - **peepo:muted** when using `$mute` command*
 ***
 
 ## Help
