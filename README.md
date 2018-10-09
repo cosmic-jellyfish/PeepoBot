@@ -7,6 +7,8 @@
 *Peepo automatically creates a role called - **peepo:muted** when using `$mute` command*
 ***
 
+### Release Date Expected: 12/10/2018
+
 ## 𝗛𝗘𝗟𝗣
 | Command  | Description |
 | :------------- | :-------------: |
