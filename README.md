@@ -6,9 +6,8 @@
 ### Invite it (him / her.. whatever 76 gender you want) - [CLICK ME TO INVITE](https://discordapp.com/api/oauth2/authorize?client_id=498307423342166026&permissions=8&scope=bot)
 ### `*Prefix is $*`.
 *Peepo automatically creates a role called - **peepo:muted** when using `$mute` command*
+
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
-
-
 
 ## 𝗛𝗘𝗟𝗣
 | Command  | Description |
@@ -80,7 +79,6 @@
 | Vagina  | Obtains a random image of a Vagina. (*Hello both hands. It's me. Ya boy.*) |
   
 </details>
-
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗙𝗨𝗡
