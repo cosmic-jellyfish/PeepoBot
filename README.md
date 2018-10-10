@@ -3,11 +3,12 @@
 `## Peepo Version - 0.4.8 - Stable ##`
 
 # Peepo Bot Command list:
+### Invite it (him / her.. whatever 76 gender you want) - [CLICK ME TO INVITE](https://discordapp.com/api/oauth2/authorize?client_id=498307423342166026&permissions=8&scope=bot)
 ### `*Prefix is $*`.
 *Peepo automatically creates a role called - **peepo:muted** when using `$mute` command*
 ***
 
-### Invite it (him / her.. whatever 76 gender you want) - [CLICK ME TO INVITE](https://discordapp.com/api/oauth2/authorize?client_id=498307423342166026&permissions=8&scope=bot)
+
 
 ## 𝗛𝗘𝗟𝗣
 | Command  | Description |
