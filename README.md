@@ -6,7 +6,7 @@
 ### Invite it (him / her.. whatever 76 gender you want) - [CLICK ME TO INVITE](https://discordapp.com/api/oauth2/authorize?client_id=498307423342166026&permissions=8&scope=bot)
 ### `*Prefix is $*`.
 *Peepo automatically creates a role called - **peepo:muted** when using `$mute` command*
-***
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 
 
@@ -20,8 +20,7 @@
 | Help       | Shows help on the specified command.   |
 | Suggest | Send a suggestion report directly to my designated channel.
 
-***
-***
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗜𝗡𝗙𝗢
 
@@ -46,8 +45,7 @@
 | UserLookup   | 	Fetches basic information of a user from Discord. |
 | ViewPermissions  | Shows the permissions you have in the server/channel. |
 
-***
-***
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗩𝗢𝗜𝗖𝗘_𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦
 | Command  | Description |
@@ -61,10 +59,12 @@
 | Thot | Plays "**BE GONE THOT**": |
 | ZING | Plays.. Well. Play it. I won't share this one. |
 
-***
-***
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
-## 𝗡𝗦𝗙𝗪
+<details>
+  <summary>𝗖𝗢𝗡𝗧𝗔𝗜𝗡𝗦 𝗡𝗦𝗙𝗪</summary>
+  
+  ## 𝗡𝗦𝗙𝗪
 | Command  | Description |
 | :------------- | :-------------: |
 | 4Kporn | Obtains a random HIGH QUALITY IMAGE of porn. (*Hello Quality? I'd like to invest in 8K some time.*) |
@@ -78,9 +78,10 @@
 | PornGif  | Obtains a random gif of a pornographic environment. (*Hello Technology? I'd like to thank you.*) |
 | Tentai  | Obtains a random image of Tentacle Porn (*Hello OCTUSPUS POLICE?! I'M REPORTING ILLEGAL SHIT.*) |
 | Vagina  | Obtains a random image of a Vagina. (*Hello both hands. It's me. Ya boy.*) |
+  
+</details>
 
-***
-***
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗙𝗨𝗡
 | Command  | Description |
@@ -106,8 +107,7 @@
 | Xkcd    | 	Shows a xkcd comic. |
 | Zalgolize     |   Sends a message you type, but zalgolized. |
 
-***
-***
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗜𝗠𝗔𝗚𝗘-𝗙𝗘𝗧𝗖𝗛𝗦
 | Command  | Description |
@@ -116,8 +116,7 @@
 | Dog  | Fetch a cute woofer. |
 | Meme | Fetch a dank meme.
 
-***
-***
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗜𝗠𝗔𝗚𝗘-𝗠𝗔𝗡𝗜𝗣𝗨𝗟𝗔𝗧𝗜𝗢𝗡
 | Command  | Description |
@@ -137,8 +136,7 @@
 | VaultBoy | I've always wanted to be a Fallout survivor | 
 | VirtualReality | This is so realistic. I wanna cry |
 
-***
-***
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗚𝗔𝗠𝗘_𝗦𝗧𝗔𝗧𝗦
 | Command  | Description |
@@ -160,8 +158,7 @@
 | Unturned     |   Get information on a speicfic server you provide. |
 | WoW     |   Get stats of any World Of Warcraft player. |
 
-***
-***
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗤𝗨𝗘𝗥𝗜𝗘𝗦
 
@@ -188,8 +185,7 @@
 | UrbanDictionary   | Searches the Urban Dictionary for an urban definition of the specified word. |
 | Weather | Shows weather information of the specified location. |
 
-***
-***
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗠𝗢𝗗𝗘𝗥𝗔𝗧𝗜𝗢𝗡
 
