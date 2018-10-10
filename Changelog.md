@@ -1,7 +1,7 @@
 # Changelog - `10/10/18`
 ***
 
-##### KNOWN-ISSUES
+### KNOWN-ISSUES
 ***
     Sometimes image-manipulation pictures don't come through, resulting in bot sending a blank embed.
     Sometimes nsfw pictures don't come through, resulting in bot sending a blank embed.
@@ -10,13 +10,13 @@
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
     
-##### CHANGES
+### CHANGES
 ***
     Seeing as though this is first release, no changelog.
     
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
    
-##### PERSONAL NOTE
+### PERSONAL NOTE
 ***
     Early ACCESS. EARLY. ACCESS. Note the "**KNOWN-ISSUES**" log above, 
     I know of issues, you're planning / using this bot whilst it's under-going heavy coding. 
