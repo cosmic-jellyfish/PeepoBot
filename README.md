@@ -131,7 +131,7 @@
 | Facepalm | Hey did that user say some dumb shit? Facepalm it! |
 | Gay | Hey, support the gays. Show the support. Colour that avatar. |
 | Sniper | That TF2 sniper is FUCKING terrified of you. |
-| Triggered | ** T R I G G E R E D*.gif | 
+| Triggered | **T R I G G E R E D**.gif | 
 | Tweet | Mock up text from any twitter name. [RealDonaldTrump](https://twitter.com/realDonaldTrump?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) I'm coming for you. | 
 | VaultBoy | I've always wanted to be a Fallout survivor | 
 | VirtualReality | This is so realistic. I wanna cry |
