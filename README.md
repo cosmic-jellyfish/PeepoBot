@@ -30,16 +30,16 @@
 | ChannelID  | Shows ID of a specified channel of your Discord server.  |
 | ChannelInfo       | Shows information of a specified text or voice channel of your Discord server.   |
 | ChannelTopic | Shows the channel topic of text channel of your Discord server. (Beyond pointless) |
-| CheckPermissions | 	Shows the permissions Cuck Bot has in the server/channel. |
+| CheckPermissions | 	Shows the permissions Peepo has in the server/channel. |
 | CommandAnalytics | 	Shows the most over-used commands the server uses |
 | EmojiInfo | 	Shows information of a specified emoji of your Discord server. |
 | InRole  | 	Shows members that have a specified role in your Discord server. |
-| Ping   | 	Shows the response time and average WebSocket ping of Cuck Bot. |
+| Ping   | 	Shows the response time and average WebSocket ping of Peepo. |
 | RoleID | 	Shows the ID of a specified role of your Discord server.|
 | RoleInfo  | 	Shows information of a specified role of your Discord server. |
 | ServerID  | 		Shows the ID of your Discord server. |
 | ServerInfo  | 	Shows information of your Discord server. |
-| Stats | 	Shows detailed stats and info of Cuck Bot. |
+| Stats | 	Shows detailed stats and info of Peepo |
 | UserID  | 	Shows ID of a specified user of your Discord server. |
 | UserInfo  | Shows information of a specified user of your Discord server. |
 | UserLookup   | 	Fetches basic information of a user from Discord. |
