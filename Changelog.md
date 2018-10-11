@@ -12,7 +12,8 @@
 
 ### BUGS
 ***
-    The command `$achievement` throws back a huge internal error / shows no error when tagging a user within the comment.
+    The command `$achievement` throws back a huge internal error / shows no error when tagging a user 
+    within the comment.
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
     
