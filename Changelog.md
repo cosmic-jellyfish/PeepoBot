@@ -6,7 +6,7 @@
     Sometimes image-manipulation pictures don't come through, resulting in bot sending a blank embed.
     Sometimes nsfw pictures don't come through, resulting in bot sending a blank embed.
     The command [$gay] requires a mention, should allow you be used without a tag and with a tag.
-    The command [$facepalm] requires a mention, should allow you be used without a tag and with a tag.
+    The command [$facepalm] requires a mention, should allow to be used without a tag and with a tag.
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
