@@ -1,3 +1,45 @@
+# Changelog - `13/10/18`
+***
+
+### KNOWN-ISSUES
+***
+    Sometimes image-manipulation pictures don't come through, resulting in bot sending a blank embed.
+    Sometimes nsfw pictures don't come through, resulting in bot sending a blank embed.
+    The command [$gay] requires a mention, should be allowed to use without a tag and with a tag.
+    The command [$facepalm] requires a mention, should allow to be used without a tag and with a tag.
+
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+
+### BUGS
+***
+    The command [$achievement] throws back a huge internal error / shows no error when tagging a user 
+    within the comment.
+
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+    
+### CHANGES
+***
+    All NSFW module commands have been fixed.
+	Added $fuckhumanity as a voice command.
+	Added $gimmehentai as a voice command.
+    
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+   
+### PERSONAL NOTE
+***
+    Early ACCESS. EARLY. ACCESS. Note the "**KNOWN-ISSUES**" log above, 
+    I know of issues, you're planning / using this bot whilst it's under-going heavy coding. 
+    If you find more bugs or non-working things please contact me (Cake#0002) 
+    or use `$bugreport <text>` to notify me.    
+
+
+
+
+***
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+***
+
 # Changelog - `10/10/18`
 ***
 
