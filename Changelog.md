@@ -25,7 +25,7 @@
 ***
 | Module / Command  | Description |
 | :------------- | :-------------: |
-| NSFW | has been fixed. (*A certain module wasn't be defined due to a minor spelling error. That has been fixed. Your dirty commands are back*) |
+| NSFW (whole module) | has been fixed. (*A certain module wasn't be defined due to a minor spelling error. That has been fixed. Your dirty commands are back*) |
 | Fuckhumanity | Plays a new voice command. (`$help fuckhumanity` for more information) |
 | Gimmehentai | Plays a new voice command. (`$help gimmehentai` for more information) | 
     
