@@ -1,6 +1,6 @@
 ![Peepo](https://media3.giphy.com/media/ZhHC3DGCUwVi0/giphy.gif "Meme bot")
 
-`## Peepo Version - 0.4.8 - EARLYACCESS ##`
+`## Peepo Version - 0.4.9 - EARLYACCESS ##`
 
 # Peepo Bot Command list:
 ### Invite it (him / her.. whatever 76 gender you want) - [CLICK ME TO INVITE](https://discordapp.com/api/oauth2/authorize?client_id=498307423342166026&permissions=8&scope=bot)
@@ -54,6 +54,8 @@
 | BuildaWall  | Plays a trump remix of building a wall. |
 | Cyka   | Plays CYKA BLYAT HARDCORE BASS. |
 | FBI | Plays "FBI OPEN UP" meme.|
+| Fuckhumanity | Plays a song about fucking all of humanity |
+| Gimmehentai | Plays a song about wanting your own hentai girl | 
 | ManTits   | Plays a sad song about having man-tits. |
 | Steppin  | Plays Spongebob steppin' on a beach. |
 | Thot | Plays "**BE GONE THOT**": |
