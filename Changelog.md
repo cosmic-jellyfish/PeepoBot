@@ -1,3 +1,55 @@
+# Changelog - `15/10/18`
+***
+
+### KNOWN-ISSUES
+***
+
+| Module / Command  | Description |
+| :------------- | :-------------: |
+| Image-Manipulation | **SOMETIMES** pictures don't come through, resulting in bot sending a blank embed. |
+| NSFW | **SOMETIMES** pictures don't come through, resulting in bot sending a blank embed. | 
+
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+
+### BUGS
+***
+| Module / Command  | Description |
+| :------------- | :-------------: |
+
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+    
+### CHANGES
+***
+| Module / Command  | Description |
+| :------------- | :-------------: |
+| **FIXED** `$facepalm` | This was a known issue on where you had to mention someone to use this. This is no longer required, without a user-mention it'll be used on yourself. Otherwise, with a tag it'll be used on who you mentioned. | 
+| **FIXED** `$gay` | This was a known issue on where you had to mention someone to use this. This is no longer required, without a user-mention it'll be used on yourself. Otherwise, with a tag it'll be used on who you mentioned. | 
+| **TWEAKED** `$ping` | Just a bit of an add-on of information. | 
+| **ADDED** `$bunny` | Fetch bunny photos. | 
+| **ADDED** `$dicksize` | See how big your/someone else's dick size is. |
+| **ADDED** `$droprequest` | Able to request GTA Online money-drops. |
+| **ADDED** `$duck` | Fetch duck photos. |
+| **ADDED** `$fox` | Fetch fox photos. |
+| **ADDED** `$garbage` | Generate a garbage photo. |
+| **ADDED** `$hates` | Generate a hate photo. |
+| **ADDED** `$jpeg` | Generate a jpeg-quality photo. |
+| **ADDED** `$magik` | Generate a magik photo. |
+
+    
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+   
+### PERSONAL NOTE
+***
+    Early ACCESS. EARLY. ACCESS. Note the "**KNOWN-ISSUES**" log above, 
+    I know of issues, you're planning / using this bot whilst it's under-going heavy coding. 
+    If you find more bugs or non-working things please contact me (Cake#0002) 
+    or use `$bugreport <text>` to notify me.    
+
+***
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+***
+
 # Changelog - `13/10/18`
 ***
 
