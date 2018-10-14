@@ -1,6 +1,6 @@
 ![Peepo](https://media3.giphy.com/media/ZhHC3DGCUwVi0/giphy.gif "Meme bot")
 
-`## Peepo Version - 0.4.9 - EARLYACCESS ##`
+`## Peepo Version - 0.5.0 - EARLYACCESS ##`
 
 # Peepo Bot Command list:
 ### Invite it (him / her.. whatever 76 gender you want) - [CLICK ME TO INVITE](https://discordapp.com/api/oauth2/authorize?client_id=498307423342166026&permissions=8&scope=bot)
@@ -8,14 +8,24 @@
 ### `Prefix is $`.
 *Peepo automatically creates a role called - **peepo:muted** when using `$mute` command*
 
+## 𝗡𝗘𝗪 𝗜𝗡 𝟬.𝟱.𝟬
+| Command  | Command |
+| :------------- | :-------------: |
+| Bunny | Dicksize | 
+| Duck | Droprequest | 
+| Fox | Hates |
+| Garbage | Jpeg |
+| Magik |
+
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗛𝗘𝗟𝗣
 | Command  | Description |
-| :------------- | :-------------: |
+| :------------- | :------------- |
 | Bugreport | Send a bug report directly to my designated channel. |
 | Changelog  | Get the latest information on the current build, and what's changed. |
 | Commands  | Have an advanced embed showing all commands  |
+| Droprequest | Ask for a GTA Money drop request. Whilst including your Social Club name within the message. |
 | GTAMenu | Shows various information of my current GTA V menu build. |
 | Help       | Shows help on the specified command.   |
 | Suggest | Send a suggestion report directly to my designated channel.
@@ -92,7 +102,8 @@
 | BlockText | Sends the given text as text emojis. |
 | Clapify | I 👏 want 👏 more 👏 cake |
 | CrimeCoefficient    |   Find the crime coefficient of a user. |
-| DadJoke | Dad left? Can't get those quality jokes? Fear not. For I am here. (*Dad I miss you, pls come back*)
+| DadJoke | Dad left? Can't get those quality jokes? Fear not. For I am here. (*Dad I miss you, pls come back*) | 
+| Dicksize | Ever wondered what you size up to another user? Now's the chance. |
 | EdgeLord    |   Shows a message from an edge lord. |
 | FidgetSpinner   |   Fuck me why did I even add this, kill myself. |
 | Fortune  | Tells you your fortune... from a fortune cookie. Neat. |
@@ -114,8 +125,11 @@
 ## 𝗜𝗠𝗔𝗚𝗘-𝗙𝗘𝗧𝗖𝗛𝗦
 | Command  | Description |
 | :------------- | :-------------: |
+| Bunny | Fetch a bunny.
 | Cat   | Fetch a kitty. |
 | Dog  | Fetch a cute woofer. |
+| Duck | Fetch a quacker. | 
+| Fox | Fetch a fox.
 | Meme | Fetch a dank meme.
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
@@ -131,6 +145,10 @@
 | Confused  | Be confused. You're confusing. Send it. | 
 | Cowsay | The Cow says -- MOOOOO**VEEEEEE BIIITCH** |
 | Facepalm | Hey did that user say some dumb shit? Facepalm it! |
+| Garbage | Show everyone who's garbage. Show em'.. Show em' yourself. you piece of shit. | 
+| Hates | Show everyone the 4 things you hate the most | 
+| Jpeg | JPEG quality a url photo. | 
+| Magik | MAGIK quality a url photo. |
 | Gay | Hey, support the gays. Show the support. Colour that avatar. |
 | Sniper | That TF2 sniper is FUCKING terrified of you. |
 | Triggered | **T R I G G E R E D**.gif | 
