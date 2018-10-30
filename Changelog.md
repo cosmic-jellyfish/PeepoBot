@@ -1,3 +1,42 @@
+# Changelog - `30/10/18`
+***
+
+### KNOWN-ISSUES
+***
+
+| Module / Command  | Description |
+| :------------- | :-------------: |
+
+
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+
+### BUGS
+***
+All NSFW commands seem to be pissed off. They're not fetching, and the data is all fine. It seems to be a reddit-side of things / random-puppy package. Will look into it. For now. Goodluck spamming it to obtain at least one image.
+
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+    
+### CHANGES
+***
+| Module / Command  | Description |
+| :------------- | :-------------: |
+| **ADDED** `$compliment` | Compliment a user. |
+| **TWEAKED** `$pickup` | Added 110 new pickup lines. |
+
+    
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+   
+### PERSONAL NOTE
+***
+    Early ACCESS. EARLY. ACCESS. You're planning / using this bot whilst it's under-going heavy coding. 
+    If you find more bugs or non-working things please contact me (Cake#0002) 
+    or use `$bugreport <text>` to notify me.    
+
+***
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+***
+
 # Changelog - `15/10/18`
 ***
 
