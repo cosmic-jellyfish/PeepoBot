@@ -4,10 +4,6 @@
 ### KNOWN-ISSUES
 ***
 
-| Module / Command  | Description |
-| :------------- | :-------------: |
-
-
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ### BUGS
