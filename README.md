@@ -8,14 +8,10 @@
 ### `Prefix is $`.
 *Peepo automatically creates a role called - **peepo:muted** when using `$mute` command*
 
-## 𝗡𝗘𝗪 𝗜𝗡 𝟬.𝟱.𝟬
+## 𝗡𝗘𝗪 𝗜𝗡 𝟬.𝟱.2
 | Command  | Command |
 | :------------- | :-------------: |
-| Bunny | Dicksize | 
-| Duck | Droprequest | 
-| Fox | Hates |
-| Garbage | Jpeg |
-| Magik |
+| compliment |
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
@@ -101,6 +97,7 @@
 | BeLikeBill |    Send a "be like bill meme" to make you feel morally superior to others. |
 | BlockText | Sends the given text as text emojis. |
 | Clapify | I 👏 want 👏 more 👏 cake |
+| Complimeent | Compliment a user, since you couldn't think of one yourself. |
 | CrimeCoefficient    |   Find the crime coefficient of a user. |
 | DadJoke | Dad left? Can't get those quality jokes? Fear not. For I am here. (*Dad I miss you, pls come back*) | 
 | Dicksize | Ever wondered what you size up to another user? Now's the chance. |
