@@ -97,7 +97,7 @@
 | BeLikeBill |    Send a "be like bill meme" to make you feel morally superior to others. |
 | BlockText | Sends the given text as text emojis. |
 | Clapify | I 👏 want 👏 more 👏 cake |
-| Complimeent | Compliment a user, since you couldn't think of one yourself. |
+| Compliment | Compliment a user, since you couldn't think of one yourself. |
 | CrimeCoefficient    |   Find the crime coefficient of a user. |
 | DadJoke | Dad left? Can't get those quality jokes? Fear not. For I am here. (*Dad I miss you, pls come back*) | 
 | Dicksize | Ever wondered what you size up to another user? Now's the chance. |
