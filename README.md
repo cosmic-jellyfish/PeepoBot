@@ -8,9 +8,9 @@
 ### `Prefix is $`.
 *Peepo automatically creates a role called - **peepo:muted** when using `$mute` command*
 
-## 𝗡𝗘𝗪 𝗜𝗡 𝟬.𝟱.2
-| Command  | Command |
-| :------------- | :-------------: |
+## 𝗡𝗘𝗪 𝗜𝗡 𝟬.𝟱.𝟮
+| Command  | 
+| :------------- | 
 | compliment |
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
