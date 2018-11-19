@@ -1,3 +1,43 @@
+# Changelog - `19/11/18`
+***
+
+### KNOWN-ISSUES
+***
+
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+
+### BUGS
+***
+NSFW commands can sometimes appear blank in the embed, the command isn't broken.. It's a fetching issue, use the command again it'll most likely work.
+
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+    
+### CHANGES
+***
+| Module / Command  | Description |
+| :------------- | :-------------: |
+| **ADDED** `$asian` | Obtains a random image of an Asian.
+| **ADDED** `$bdsm` | Obtains a random image of BDSM / Bondage.
+| **ADDED** `$blowjob` | Obtains a random image/gif of a girl giving a blowjob.
+| **ADDED** `$cameltoe` | Obtains a random image of a Cameltoe.
+| **ADDED** `$cum` | Obtains a random image/gif of a girl receiving cum.
+| **ADDED** `$creampie` | Obtains a random image/gif of a girl receiving a creampie. 
+| **ADDED** `$titfuck` | Obtains a random image/gif of tit-fucking.
+
+    
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+   
+### PERSONAL NOTE
+***
+    Early ACCESS. EARLY. ACCESS. You're planning / using this bot whilst it's under-going heavy coding. 
+    If you find more bugs or non-working things please contact me (Cake#0002) 
+    or use `$bugreport <text>` to notify me.    
+
+***
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+***
+
 # Changelog - `30/10/18`
 ***
 
