@@ -16,13 +16,15 @@ NSFW commands can sometimes appear blank in the embed, the command isn't broken.
 ***
 | Module / Command  | Description |
 | :------------- | :-------------: |
-| **ADDED** `$asian` | Obtains a random image of an Asian.
-| **ADDED** `$bdsm` | Obtains a random image of BDSM / Bondage.
-| **ADDED** `$blowjob` | Obtains a random image/gif of a girl giving a blowjob.
-| **ADDED** `$cameltoe` | Obtains a random image of a Cameltoe.
-| **ADDED** `$cum` | Obtains a random image/gif of a girl receiving cum.
-| **ADDED** `$creampie` | Obtains a random image/gif of a girl receiving a creampie. 
-| **ADDED** `$titfuck` | Obtains a random image/gif of tit-fucking.
+| **ADDED** `$asian` | Obtains a random image of an Asian. |
+| **ADDED** `$bdsm` | Obtains a random image of BDSM / Bondage. | 
+| **ADDED** `$blowjob` | Obtains a random image/gif of a girl giving a blowjob. | 
+| **ADDED** `$cameltoe` | Obtains a random image of a Cameltoe. | 
+| **ADDED** `$cum` | Obtains a random image/gif of a girl receiving cum. | 
+| **ADDED** `$creampie` | Obtains a random image/gif of a girl receiving a creampie. |
+| **ADDED** `$titfuck` | Obtains a random image/gif of tit-fucking. |
+| **REMOVED** `$belikebill` | API finally died. F. |
+
 
     
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
