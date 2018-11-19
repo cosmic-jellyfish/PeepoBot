@@ -85,6 +85,7 @@
 | Asian | Obtains a random image of an Asian. (*I won't judge you.*) |
 | Ass  | Obtains a random image of Ass. (*Hello right hand, it's me*) |
 | Bdsm | Obtains a random image of BDSM / Bondage. (*Well. Rope me dead.*) |
+| Blowjob | Obtains a random image/gif of a girl giving a Blowjob. (*It's a job to blow air? Wow.*) | 
 | Boobs | Obtains a random image of Boobs. (*Hello right hand, it's me*) |
 | Cameltoe | Obtains a random image of a Cameltoe. (*Hey, did you steal that toe from the camel? Give it back.*) |
 | Cosplay  | Obtains a random image of a sexc Cosplayer.(*Hello Favourite Video game? I'm going to exploit you.*) |
