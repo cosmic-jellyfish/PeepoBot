@@ -1,3 +1,43 @@
+# Changelog - `28/11/18`
+***
+
+### KNOWN-ISSUES
+***
+
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+
+### BUGS
+***
+NSFW commands can sometimes appear blank in the embed, the command isn't broken.. It's a fetching issue, use the command again it'll most likely work.
+
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+    
+### CHANGES
+***
+| Module / Command  | Description |
+| :------------- | :-------------: |
+| **ADDED** `$christmas` | Advent-Calendar, runs from the 1st to the 24th of December. Over 120+ possibilities for gifts.  |
+| **ADDED** `$globalannounce` | {Owner only} Sends a DM to **only** server owners. | 
+| **TWEAKED** `$suggest` | includes user ID within footer. | 
+| **TWEAKED** `$bugreport` | includes user ID within footer. | 
+| **TWEAKED** `$droprequest` | includes user ID within footer. | 
+| **TWEAKED** `$changelog` | self-deletes command use. | 
+
+    
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+   
+### PERSONAL NOTE
+***
+    Early ACCESS. EARLY. ACCESS. You're planning / using this bot whilst it's under-going heavy coding. 
+    If you find more bugs or non-working things please contact me (Cake#0002) 
+    or use `$bugreport <text>` to notify me.    
+
+***
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+***
+
+
 # Changelog - `19/11/18`
 ***
 
