@@ -1,6 +1,6 @@
 ![Peepo](https://media3.giphy.com/media/ZhHC3DGCUwVi0/giphy.gif "Meme bot")
 
-`## Peepo Version - 0.5.6 - EARLYACCESS ##`
+`## Peepo Version - 0.5.8 - EARLYACCESS ##`
 
 # Peepo Bot Command list:
 ### Invite it (him / her.. whatever 76 gender you want) - [CLICK ME TO INVITE](https://discordapp.com/api/oauth2/authorize?client_id=498307423342166026&permissions=8&scope=bot)
@@ -8,16 +8,11 @@
 ### `Prefix is $`.
 *Peepo automatically creates a role called - **peepo:muted** when using `$mute` command*
 
-## 𝗡𝗘𝗪 𝗜𝗡 𝟬.𝟱.𝟲
+## 𝗡𝗘𝗪 𝗜𝗡 𝟬.𝟱.𝟴
 | Command{s}  | 
 | :------------- |
-| asian |
-| bdsm |
-| blowjob | 
-| cameltoe | 
-| cum | 
-| creampie | 
-| titfuck | 
+| christmas |
+| globalannounce (owner only) |
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
@@ -109,6 +104,7 @@
 | :------------- | :-------------: |
 | BeLikeBill |    Send a "be like bill meme" to make you feel morally superior to others. |
 | BlockText | Sends the given text as text emojis. |
+| Christmas | Advent-Calendar, runs from 1st to 24th of December. Get yourself a gift daily. 120+ possibilities. |
 | Clapify | I 👏 want 👏 more 👏 cake |
 | Compliment | Compliment a user, since you couldn't think of one yourself. |
 | CrimeCoefficient    |   Find the crime coefficient of a user. |
