@@ -8,6 +8,8 @@
 ### `Prefix is $`.
 *Peepo automatically creates a role called - **peepo:muted** when using `$mute` command*
 
+![Peepo](https://media.discordapp.net/attachments/470917386258874368/526976260681891841/roadmap.png?width=634&height=334 "oh god")
+
 ## 𝗡𝗘𝗪 𝗜𝗡 𝟬.𝟱.𝟴
 | Command{s}  | 
 | :------------- |
