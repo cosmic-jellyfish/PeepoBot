@@ -19,46 +19,28 @@
 ## 𝗡𝗘𝗪 𝗜𝗡 𝟭.𝟬.𝟬
 | Command{s}  | 
 | :------------- |
-| `belikebill (fun)` | 
-|`slots (games)`  |
-| `betroll (games)` | 
-|`topgames (info)`  | 
-| `iam (misc)`  | 
-|`iamnot (misc)` | 
-| `leaderboard (misc)` | 
-|`shop (misc)` | 
-| `case (moderation)` | 
-|`report (moderation)` | 
-| `buy (profile)` | 
-|`daily (profile)`  |
-| `karma (profile)` | 
-|`level (profile)`  | 
-| `myitems (profile)`  | 
-|`peepocookies (profile)` | 
-| `profile (profile)` | 
-|`rank (profile)` | 
-| `setbio (profile)` | 
-|`setbirthdate (profile)` | 
-| `asar (server-management)` | 
-|`disablecommand (server-management)` |
-| `enablecommand (server-management)` | 
-|`give (server-management)` | 
-| `givexp (server-management)` | 
-|`levelupmessage (server-management)` | 
-| `leveluproles (server-management)` | 
-|`lsar (server-management)` | 
-| `membersonly (server-management)` | 
-|`modlog (server-management)` | 
-| `rsar (server-management)` | 
-|`reportchannel (server-management)` | 
-| `resetmoderationlogs (server-management)` | 
-|`rolestore (server-management)` | 
-| `sellrole (server-management)` | 
-|`serversettings (server-management)` | 
-| `streamerrole (server-management)` | 
-|`streamers (server-management)` | 
-| `take (server-management)` | 
-|`togglelevelups (server-management)` | 
+| Command  | Command |
+| :------------- | :------------- |
+| `belikebill (fun)` | `slots (games)`  |
+| `betroll (games)` | `topgames (info)`  | 
+| `iam (misc)`  | `iamnot (misc)` | 
+| `leaderboard (misc)` | `shop (misc)` | 
+| `case (moderation)` | `report (moderation)` | 
+| `buy (profile)` | `daily (profile)`  |
+| `karma (profile)` | `level (profile)`  | 
+| `myitems (profile)`  | `peepocookies (profile)` | 
+| `profile (profile)` | `rank (profile)` | 
+| `setbio (profile)` | `setbirthdate (profile)` | 
+| `asar (server-management)` | `disablecommand (server-management)` |
+| `enablecommand (server-management)` | `give (server-management)` | 
+| `givexp (server-management)` | `levelupmessage (server-management)` | 
+| `leveluproles (server-management)` | `lsar (server-management)` | 
+| `membersonly (server-management)` | `modlog (server-management)` | 
+| `rsar (server-management)` | `reportchannel (server-management)` | 
+| `resetmoderationlogs (server-management)` | `rolestore (server-management)` | 
+| `sellrole (server-management)` | `serversettings (server-management)` | 
+| `streamerrole (server-management)` | `streamers (server-management)` | 
+| `take (server-management)` | `togglelevelups (server-management)` | 
 | `togglepeepo (server-management)` | 
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
