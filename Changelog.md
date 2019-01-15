@@ -1,3 +1,95 @@
+# Changelog - `15/01/19`
+***
+
+### NEW MODULES
+***
+| Module  | Description |
+| :------------- | -------------: |
+| `games` | Has a few mini-games within.  |
+| `misc` | Has commands that don't really fit in another category  | 
+| `owner`  | Has commands for myself only. | 
+| `profile` | Has all commands relating to profiles. | 
+| `server-configuration` | Has commands for Server-Owners / Server Managers. | 
+
+All stated above are available to be seen using `$commands` except for the Owner module. 
+
+    
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+
+### Removed commands
+***
+| Command  | Command |
+| :------------- | :------------- |
+| `leet (fun)` | `zalgolize (fun)`  |
+| `piratespeak (fun)` | `edgelord (fun)`  | 
+| `selfdestruct (fun)`  | `dadjoke (fun)` | 
+| `xkcd (fun)` | `crimecoefficient (fun)` | 
+| `yomama (fun)` | `ark (player stats)` | 
+| `callofduty4 (player stats)` | `callofdutymodernwarefare3 (player stats)`  |
+| `minecraft (player stats)` | `rust (player stats)`  | 
+| `teamfortress2 (player stats)`  | `unturned (player stats)` | 
+| `battlefield1 (player stats)`  | `battlefield4 (player stats)` |
+| `pubg (player stats)`  | `wow (player stats)` |  
+| `rocketleague (player stats)` | `droprequest (help)` | 
+| `gtamenu (help)` | `channelid (info)` | 
+| `channeltopic (info)` | `checkpermissions (info)` |
+| `commandanalytics (info)` | `emojiinfo (info)` | 
+| `roleid (info)` | `serverid (info)` | 
+| `userid (info)` | `anime (queries)` | 
+| `calculate (queries)` | `choose (queries)` | 
+| `data (queries)` | `define (queries)` | 
+| `forecast (queries)` | `game (queries)` | 
+| `generateinvite (queries)` | `lastseen (queries)` | 
+| `manga (queries)` | `movie (queries)` | 
+| `pokemon (queries)` | `steam (queries)` | 
+| `translate (queries)` | `tvshow (queries)` | 
+| `urbandictionary (queries)` | `weather (queries)` | 
+
+The selected commands that were removed are due to low to no usage to them, I figured I have better chances creating commands that will be used than have them there gobbling up data.
+
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+
+### Added Commands
+***
+| Command  | Command |
+| :------------- | :------------- |
+| `belikebill (fun)` | `slots (games)`  |
+| `betroll (games)` | `topgames (info)`  | 
+| `iam (misc)`  | `iamnot (misc)` | 
+| `leaderboard (misc)` | `shop (misc)` | 
+| `case (moderation)` | `report (moderation)` | 
+| `buy (profile)` | `daily (profile)`  |
+| `karma (profile)` | `level (profile)`  | 
+| `myitems (profile)`  | `peepocookies (profile)` | 
+| `profile (profile)` | `rank (profile)` | 
+| `setbio (profile)` | `setbirthdate (profile)` | 
+| `asar (server-management)` | `disablecommand (server-management)` |
+| `enablecommand (server-management)` | `give (server-management)` | 
+| `givexp (server-management)` | `levelupmessage (server-management)` | 
+| `leveluproles (server-management)` | `lsar (server-management)` | 
+| `membersonly (server-management)` | `modlog (server-management)` | 
+| `rsar (server-management)` | `reportchannel (server-management)` | 
+| `resetmoderationlogs (server-management)` | `rolestore (server-management)` | 
+| `sellrole (server-management)` | `serversettings (server-management)` | 
+| `streamerrole (server-management)` | `streamers (server-management)` | 
+| `take (server-management)` | `togglelevelups (server-management)` | 
+| `togglepeepo (server-management)` | 
+
+To learn more about the command either go back to the Read me, or use `$help <command_name>`
+   
+### PERSONAL NOTE
+***
+Few commands were removed as they're still being re-worked. They will be introduced at a later time (v2) (*I broke them. too lazy to fix atm*)
+
+Out of EARLY-ACCESS = Alpha now. *Cool*.
+
+Seeya in May. ;)
+
+***
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+***
+
 # Changelog - `28/11/18`
 ***
 
