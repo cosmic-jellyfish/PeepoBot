@@ -65,7 +65,7 @@
 
 ## 𝗛𝗘𝗟𝗣
 | Command  | Description |
-| :------------- | ------------- |
+| :------------- | -------------: |
 | BugReport | Send a bug report directly to my designated channel. |
 | Changelog  | Get the latest information on the current build, and what's changed. |
 | Commands  | Have an advanced embed showing all commands  |
@@ -76,7 +76,7 @@
 
 ## 𝗚𝗔𝗠𝗘𝗦
 | Command  | Description |
-| :------------- | ------------- |
+| :------------- | -------------: |
 | BetRoll | Bet Peepo Cookies on prediction of the outcome of rolling a dice. |
 | Slots  | Spins the reels of the slot machine and shows you the result. (*Pointless really*) |
 | ThisOrThat  | Asks a this or that question.  |
@@ -278,7 +278,7 @@
 ## 𝗠𝗢𝗗𝗘𝗥𝗔𝗧𝗜𝗢𝗡
 
 | Command  | Description |
-| :------------- | :-------------: |
+| :------------- | -------------: |
 | Ban  | Bans the specified user from your Discord server and removes 7 days of their message history. |
 | Case | Fetches any moderation action, that's placed within the moderation log channel. | 
 | Clear    | Deletes a bulk of specified messages from a text channel of your Discord server. |
