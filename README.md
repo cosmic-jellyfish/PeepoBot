@@ -17,8 +17,6 @@
 ![Peepo](https://media.discordapp.net/attachments/470917386258874368/526976260681891841/roadmap.png?width=634&height=334 "oh god")
 
 ## 𝗡𝗘𝗪 𝗜𝗡 𝟭.𝟬.𝟬
-| Command{s}  | 
-| :------------- |
 | Command  | Command |
 | :------------- | :------------- |
 | `belikebill (fun)` | `slots (games)`  |
