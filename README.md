@@ -1,6 +1,6 @@
 ![Peepo](https://media3.giphy.com/media/ZhHC3DGCUwVi0/giphy.gif "Meme bot")
 
-`## Peepo Version - 0.5.8 - EARLYACCESS ##`
+`## Peepo Version - 1.0.0 - ALPHA ##`
 
 # Peepo Bot Command list:
 ### Invite it (him / her.. whatever 76 gender you want) - [CLICK ME TO INVITE](https://discordapp.com/api/oauth2/authorize?client_id=498307423342166026&permissions=8&scope=bot)
@@ -8,57 +8,105 @@
 ### `Prefix is $`.
 *Peepo automatically creates a role called - **peepo:muted** when using `$mute` command*
 
+*When using `$mute` I haven't coded an unmute, so make the times accurate or remove them from the **peepo:muted** role.*
+
+*By default levelling up is disabled, run `$togglelevelups` to enable / disable it.*
+
+***V2 is when a bunch of new fun / voice commands are deployed.***
+
 ![Peepo](https://media.discordapp.net/attachments/470917386258874368/526976260681891841/roadmap.png?width=634&height=334 "oh god")
 
-## 𝗡𝗘𝗪 𝗜𝗡 𝟬.𝟱.𝟴
+## 𝗡𝗘𝗪 𝗜𝗡 𝟭.𝟬.𝟬
 | Command{s}  | 
 | :------------- |
-| christmas |
-| globalannounce (owner only) |
+| `belikebill (fun)` | 
+|`slots (games)`  |
+| `betroll (games)` | 
+|`topgames (info)`  | 
+| `iam (misc)`  | 
+|`iamnot (misc)` | 
+| `leaderboard (misc)` | 
+|`shop (misc)` | 
+| `case (moderation)` | 
+|`report (moderation)` | 
+| `buy (profile)` | 
+|`daily (profile)`  |
+| `karma (profile)` | 
+|`level (profile)`  | 
+| `myitems (profile)`  | 
+|`peepocookies (profile)` | 
+| `profile (profile)` | 
+|`rank (profile)` | 
+| `setbio (profile)` | 
+|`setbirthdate (profile)` | 
+| `asar (server-management)` | 
+|`disablecommand (server-management)` |
+| `enablecommand (server-management)` | 
+|`give (server-management)` | 
+| `givexp (server-management)` | 
+|`levelupmessage (server-management)` | 
+| `leveluproles (server-management)` | 
+|`lsar (server-management)` | 
+| `membersonly (server-management)` | 
+|`modlog (server-management)` | 
+| `rsar (server-management)` | 
+|`reportchannel (server-management)` | 
+| `resetmoderationlogs (server-management)` | 
+|`rolestore (server-management)` | 
+| `sellrole (server-management)` | 
+|`serversettings (server-management)` | 
+| `streamerrole (server-management)` | 
+|`streamers (server-management)` | 
+| `take (server-management)` | 
+|`togglelevelups (server-management)` | 
+| `togglepeepo (server-management)` | 
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗛𝗘𝗟𝗣
 | Command  | Description |
-| :------------- | :------------- |
-| Bugreport | Send a bug report directly to my designated channel. |
+| :------------- | ------------- |
+| BugReport | Send a bug report directly to my designated channel. |
 | Changelog  | Get the latest information on the current build, and what's changed. |
 | Commands  | Have an advanced embed showing all commands  |
-| Droprequest | Ask for a GTA Money drop request. Whilst including your Social Club name within the message. |
-| GTAMenu | Shows various information of my current GTA V menu build. |
 | Help       | Shows help on the specified command.   |
-| Suggest | Send a suggestion report directly to my designated channel.
+| Suggest | Send a suggestion report directly to my designated channel.|
+
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+
+## 𝗚𝗔𝗠𝗘𝗦
+| Command  | Description |
+| :------------- | ------------- |
+| BetRoll | Bet Peepo Cookies on prediction of the outcome of rolling a dice. |
+| Slots  | Spins the reels of the slot machine and shows you the result. (*Pointless really*) |
+| ThisOrThat  | Asks a this or that question.  |
+| WouldYouRather | Asks a would you rather question.  |
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗜𝗡𝗙𝗢
 
 | Command  | Description |
-| :------------- | :-------------: |
+| :------------- | -------------: |
 | Avatar  | Shows avatar of a specified user of your Discord server. |
-| ChannelID  | Shows ID of a specified channel of your Discord server.  |
 | ChannelInfo       | Shows information of a specified text or voice channel of your Discord server.   |
-| ChannelTopic | Shows the channel topic of text channel of your Discord server. (Beyond pointless) |
-| CheckPermissions | 	Shows the permissions Peepo has in the server/channel. |
-| CommandAnalytics | 	Shows the most over-used commands the server uses |
-| EmojiInfo | 	Shows information of a specified emoji of your Discord server. |
 | InRole  | 	Shows members that have a specified role in your Discord server. |
+| Live    | Shows the list of users in your Discord server who are currently streaming. |
 | Ping   | 	Shows the response time and average WebSocket ping of Peepo. |
-| RoleID | 	Shows the ID of a specified role of your Discord server.|
-| RoleInfo  | 	Shows information of a specified role of your Discord server. |
-| ServerID  | 		Shows the ID of your Discord server. |
-| ServerInfo  | 	Shows information of your Discord server. |
+| RoleInfo | Shows various information on a specific role. |
+| Roles  | 	Shows all roles and their ID'S |
+| ServerInfo  | 	Shows information of the Discord server. |
 | Stats | 	Shows detailed stats and info of Peepo |
-| UserID  | 	Shows ID of a specified user of your Discord server. |
+| TopGames | Shows information of what the most top player games are within the discord server (*Resets after Peepo restarts*)
+| Twitch  | 	Shows information of a live twitch channel. |
 | UserInfo  | Shows information of a specified user of your Discord server. |
 | UserLookup   | 	Fetches basic information of a user from Discord. |
-| ViewPermissions  | Shows the permissions you have in the server/channel. |
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
-## 𝗩𝗢𝗜𝗖𝗘_𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦
+## 𝗩𝗢𝗜𝗖𝗘
 | Command  | Description |
-| :------------- | :-------------: |
+| :------------- | -------------: |
 | Airhorn | Plays an airhorn in a voice channel. How to annoy everyone 101. |
 | BuildaWall  | Plays a trump remix of building a wall. |
 | Cyka   | Plays CYKA BLYAT HARDCORE BASS. |
@@ -77,7 +125,7 @@
   
   ## 𝗡𝗦𝗙𝗪
 | Command  | Description |
-| :------------- | :-------------: |
+| :------------- | -------------: |
 | 4Kporn | Obtains a random HIGH QUALITY IMAGE of porn. (*Hello Quality? I'd like to invest in 8K some time.*) |
 | Asian | Obtains a random image of an Asian. (*I won't judge you.*) |
 | Ass  | Obtains a random image of Ass. (*Hello right hand, it's me*) |
@@ -103,48 +151,41 @@
 
 ## 𝗙𝗨𝗡
 | Command  | Description |
-| :------------- | :-------------: |
+| :------------- | -------------: |
 | BeLikeBill |    Send a "be like bill meme" to make you feel morally superior to others. |
 | BlockText | Sends the given text as text emojis. |
 | Christmas | Advent-Calendar, runs from 1st to 24th of December. Get yourself a gift daily. 120+ possibilities. |
 | Clapify | I 👏 want 👏 more 👏 cake |
 | Compliment | Compliment a user, since you couldn't think of one yourself. |
-| CrimeCoefficient    |   Find the crime coefficient of a user. |
-| DadJoke | Dad left? Can't get those quality jokes? Fear not. For I am here. (*Dad I miss you, pls come back*) | 
 | Dicksize | Ever wondered what you size up to another user? Now's the chance. |
-| EdgeLord    |   Shows a message from an edge lord. |
 | FidgetSpinner   |   Fuck me why did I even add this, kill myself. |
 | Fortune  | Tells you your fortune... from a fortune cookie. Neat. |
 | Insult | Hey you. *Yeah you.* Go fuck yourself. | 
-| Leet   | 	Sends a message you type, but l33t. |
 | Pickup    | Got the hots for a girl and don't know what to say? You added me to your server. I'm basically your wingman now. |
-| PirateSpeak    |   Sends a message you type, but in pirate tongue. |
 | Punch  |    Start a fight! Punch a god damn user. |
-| SelfDestruct   | Sends the same message that you had sent, but it will get auto deleted after a specific amount of time. |
 | Ship      |   Combines two or more mentioned user's names. |
 | Skyrim | I use to write full descriptions until I took an arr-- |
 | Slap   |   User being a bitch? Slap them back into place. |
 | Vaporwave | ＴＨＩＳ ＩＳ ＣＯＯＬ|
-| Xkcd    | 	Shows a xkcd comic. |
-| Zalgolize     |   Sends a message you type, but zalgolized. |
+
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗜𝗠𝗔𝗚𝗘-𝗙𝗘𝗧𝗖𝗛𝗦
 | Command  | Description |
-| :------------- | :-------------: |
+| :------------- | -------------: |
 | Bunny | Fetch a bunny.
 | Cat   | Fetch a kitty. |
 | Dog  | Fetch a cute woofer. |
 | Duck | Fetch a quacker. | 
-| Fox | Fetch a fox.
-| Meme | Fetch a dank meme.
+| Fox | Fetch a fox. | 
+| Meme | Fetch a dank meme. |
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗜𝗠𝗔𝗚𝗘-𝗠𝗔𝗡𝗜𝗣𝗨𝗟𝗔𝗧𝗜𝗢𝗡
 | Command  | Description |
-| :------------- | :-------------: |
+| :------------- | -------------: |
 | Achievement   | Generate a shitty minecraft achievement. *I'll provide one when you die as well* |
 | Beautiful  | Wanna show a user they're beautiful? Go on then. |
 | Bobross   | [RIP BOBROSS] Man, let him paint you. Or someone else.  |
@@ -166,52 +207,71 @@
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
-## 𝗚𝗔𝗠𝗘_𝗦𝗧𝗔𝗧𝗦
+## 𝗣𝗟𝗔𝗬𝗘𝗥-𝗦𝗧𝗔𝗧𝗦
 | Command  | Description |
-| :------------- | :-------------: |
-| Ark | Get information on a speicfic server you provide. |
-| Battlefield1       |   Get stats of any Battlefield 1 player. |
-| Battlefield4  | Get stats of any Battlefield 4 player. |
-| CallOfDuty4  |   Get information on a speicfic server you provide. |
-| CallOfDutyModernWarfare3   |    Get information on a speicfic server you provide. |
-| CounterStrikeGlobalOffensive  | 	Get information on a speicfic server you provide. |
+| :------------- | -------------: |
 | Destiny2     |  Get stats of any Destiny2 player. |
 | Fortnite     |   Get stats of any Fortnite player. |
-| Minecraft     |   Get information on a speicfic server you provide. |
 | Overwatch     |   Get stats of any Overwatch player. |
-| Pubg     |   Get stats of any PUBG player. |
 | Rainbow6     |   Get stats of any Rainbow Six player. |
-| Rust       |   Get information on a speicfic server you provide. |
-| TeamFortress2     |   Get information on a speicfic server you provide. |
-| Unturned     |   Get information on a speicfic server you provide. |
-| WoW     |   Get stats of any World Of Warcraft player. |
+
+*Adding new ones soon. Some API'S were removed*
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
-## 𝗤𝗨𝗘𝗥𝗜𝗘𝗦
-
+## 𝗠𝗜𝗦𝗖
 | Command  | Description |
-| :------------- | :-------------: |
-| Anime  | Searches for the details of an Anime. |
-| Calculate  | Evaluates any mathematical expression. |
-| Choose | Asks the bot to choose an option from a number of options. |
-| Date   | Shows the local date and time of any specified city. |
-| Define    | Searches the definition of the specified word from English, French or German dictionary. |
-| EndPoll | End a poll. | 
-| Forecast   | Shows the weather forecast for 5 days of the specified city. |
-| Game   | Searches for the details of a Game. |
-| GenerateInvite  | Generates an invite link of the current text channel of your Discord server. |
-| LastSeen    | Shows the time since the specified user was last seen socializing in Discord. |
-| Live    | Shows the list of users in your Discord server who are currently streaming. |
-| Manga  | Searches for the details of a Manga. |
-| Movie    | Searches for the details of a movie. |
-| Pokemon | Look up any generation of pokemon and get an extensive amount of information in return |
-| Poll   | Starts a poll in the current text channel asking users to vote with the specified time. If no time is specified, poll ends in 60 minutes. |
-| PollStats  | Shows current stats of the poll. |
-| Steam| Browse the games in different categories of the Steam Store. |
-| Translate   | Translates your message to the specified language. |
-| UrbanDictionary   | Searches the Urban Dictionary for an urban definition of the specified word. |
-| Weather | Shows weather information of the specified location. |
+| :------------- | -------------: |
+| EndPoll      |  Ends a poll and shows the results. (*if any*)|
+| IAm     |   Adds yourself to a 'Self-Assignable Role' if the server has any. |
+| IAmNot     |   Removes yourself from a 'Self-Assignable Role'. |
+| Leaderboard     |  Show's a Leaderboard of who's got the most XP and such within the server. |
+| Poll     |   Create a poll with 2 options and set a time (*Default time if not provided is 60 minutes*) |
+| PollStats     |   Get information on a poll that is running. |
+| Shop `Server_Admin`    |   Set up a Shop for users to purchase virtual items with their Peepo Cookies. |
+
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+
+## 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
+| Command  | Description |
+| :------------- | -------------: |
+| Buy     |  Buy items from the Server's Shop. |
+| Daily     |   Claim your daily Peepo Cookies. |
+| Karma    |   Give Karma to user's within the Discord Server (*Basically Reputation. Removing in the future.*) |
+| Level     |   Shows your level and the amount of XP (Experience points) remaining for next level. (*Removing in future*) |
+| MyItems     |   Shows what items you've bought from the Server's Shop. |
+| PeepoCookies     |   Show's the amount of Peepo Cookies you or anyone has. |
+| Profile     |   Show's yours / anyone's Profile within that Discord Server and a bit of information on it. |
+| Rank     |   Shows yours / anyone's rank within the Discord Server. (*Removing in future*) |
+| SetBio     |   Set your Bio for your `$profile` so anyoen can view. |
+| SetBirthDate     |   Set your Birthdate for your `$profile` so anyone can view. |
+
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+
+## 𝗦𝗘𝗥𝗩𝗘𝗥-𝗖𝗢𝗡𝗙𝗜𝗚𝗨𝗥𝗔𝗧𝗜𝗢𝗡
+| Command  | Description |
+| :------------- | -------------: |
+| Asar `Server_Admin` | Add a role to the "Self Assignable Role" list. |
+| Disablecommand `Server_Admin` | Disable a specific Peepo command for all use. |
+| Enablecommand `Server_Admin` | Enable a specific Peepo command for all use. |
+| Give   | Give a user of your choosing some Peepo Cookies. |
+| GiveXP `Server_Owner`   | Give a user of your choosing XP (Experience points) |
+| LevelUpMessage `Server_Admin`| Enable / Disable level up messages for when a user level's up. | 
+| LevelUpRole `Server_Admin`  | Enable / Disable an automatic role users are placed in when they level up. |
+| Lsar  `Server_Admin` | List the "Self Assignable Role" list. |
+| MembersOnly `Server_Admin` | Disable Peepo from being used from users without a role. |
+| ModLog   `Server_Admin` | Shows various Moderation (*Audit*) logs. (*Pointless, view your Audit log*.) |
+| Rsar    `Server_Admin`| Remove a role from the "Self Assignable Role" list. |
+| ReportChannel  `Server_Admin`| Set a specific channel designated for users that use the `$report` command. |
+| ResetModerationLogs    `Server_Admin`| Resets the Mod-Log back to 1. |
+| RoleStore | View the Role Store on what you can buy with the virtual currency (PC - Peepo Cookies) |
+| SellRole   `Server_Admin`| Sell a Role so those with the right amount of PC can buy that specific role. |
+| ServerSettings  | Shows various moderation settings on what's been toggled and what hasn't been. |
+| StreamerRole `Server_Admin`| Make a specific role the "Streamer Role" so when a user starts streaming, he's automatically placed there. |
+| Streamers `Server_Admin`  | Adds / removes / displays the list of streamers followed by the server to get notified when they are live. |
+| Take `Server_Admin`  | Take any amount of (PC - Peepo Cookies) from a user. |
+| ToggleLevelUps `Server_Owner` | Enable / Disable levelling up within your server. (*By default this is **OFF**) |
+| TogglePeepo `Server_Owner` | Enable / Disable Peepo within your server. (*This includes all modules + commands*) | 
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
@@ -220,16 +280,15 @@
 | Command  | Description |
 | :------------- | :-------------: |
 | Ban  | Bans the specified user from your Discord server and removes 7 days of their message history. |
+| Case | Fetches any moderation action, that's placed within the moderation log channel. | 
 | Clear    | Deletes a bulk of specified messages from a text channel of your Discord server. |
 | ClearWarn  | Clears all warnings from the given user. |
 | Kick   | Kicks the specified user from your Discord server. |
 | ListWarns  | 	Lists all the warned users of your Discord Server. |
 | Lockdown | Lockdown whatever channel this command is used in for a specific amount of time (*Sad face. No more porn gifs*) | 
 | Mute  | Mute a specific user for a certain period of time. | 
-| Nickname | Change a nickname of a user. |
-| RemoveAllRoles  | Removes all the roles from the specified user of your Discord server. |
+| Report | Report a user to the Discord's server's appropriate user's.  |
 | SoftBan  | Bans & unbans the specified user, immediately, from your Discord server and removes 7 days of their message history. |
 | UnBan  | You know what this does. |
-| Unmute  | Unmute a user that is currently muted. | 
 | Warn   | Warns the specified user. If three warns are given, some action, created by the warnAction command, is taken. |
 | WarnAction  | Sets the warn action for the server {*Used for above command*}. |
