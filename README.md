@@ -1,6 +1,6 @@
 ![Peepo](https://media3.giphy.com/media/ZhHC3DGCUwVi0/giphy.gif "Meme bot")
 
-`## Peepo Version - 1.0.0 - ALPHA ##`
+`## Peepo Version - 1.0.1-B - ALPHA ##`
 
 # Peepo Bot Command list:
 ### Invite it (him / her.. whatever 76 gender you want) - [CLICK ME TO INVITE](https://discordapp.com/api/oauth2/authorize?client_id=498307423342166026&permissions=8&scope=bot)
@@ -16,30 +16,12 @@
 
 ![Peepo](https://media.discordapp.net/attachments/470917386258874368/526976260681891841/roadmap.png?width=634&height=334 "oh god")
 
-## 𝗡𝗘𝗪 𝗜𝗡 𝟭.𝟬.𝟬
+## 𝗧𝗪𝗘𝗔𝗞𝗘𝗗 𝗜𝗡 𝟭.𝟬.𝟭-𝗕
 | Command  | Command |
 | :------------- | :------------- |
-| `belikebill (fun)` | `slots (games)`  |
-| `betroll (games)` | `topgames (info)`  | 
-| `iam (misc)`  | `iamnot (misc)` | 
-| `leaderboard (misc)` | `shop (misc)` | 
-| `case (moderation)` | `report (moderation)` | 
-| `buy (profile)` | `daily (profile)`  |
-| `karma (profile)` | `level (profile)`  | 
-| `myitems (profile)`  | `peepocookies (profile)` | 
-| `profile (profile)` | `rank (profile)` | 
-| `setbio (profile)` | `setbirthdate (profile)` | 
-| `asar (server-management)` | `disablecommand (server-management)` |
-| `enablecommand (server-management)` | `give (server-management)` | 
-| `givexp (server-management)` | `levelupmessage (server-management)` | 
-| `leveluproles (server-management)` | `lsar (server-management)` | 
-| `membersonly (server-management)` | `modlog (server-management)` | 
-| `rsar (server-management)` | `reportchannel (server-management)` | 
-| `resetmoderationlogs (server-management)` | `rolestore (server-management)` | 
-| `sellrole (server-management)` | `serversettings (server-management)` | 
-| `streamerrole (server-management)` | `streamers (server-management)` | 
-| `take (server-management)` | `togglelevelups (server-management)` | 
-| `togglepeepo (server-management)` | 
+| `magik` | `jpeg` | 
+| `clapify` | `karma` | 
+Voice commands are officially fixed.
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
