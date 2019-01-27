@@ -1,3 +1,37 @@
+# Changelog - `27/01/19`
+***
+
+### TWEAKED
+***
+| Module  | Description |
+| :------------- | -------------: |
+| `magik` | Peepo now sends back an embedded message with the image rather than not. Looks neater.  |
+| `jpeg` | Peepo now sends back an embedded message with the image rather than not. Looks neater. | 
+| `clapify`  | Peepo now sends back an embedded message with the text rather than not. Looks neater. | 
+
+All stated above are available to be seen using `$commands` except for the Owner module. 
+
+    
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+
+### FIXED
+***
+| Module  | Description |
+| :------------- | -------------: |
+| `Voice-commands` | All voice commands within Peepo are now completely fixed. Hooray.   |
+
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+
+   
+### PERSONAL NOTE
+***
+Version 1.2 is out April / May. Who knows, maybe even earlier. Read the roadmap or something. okay bye.
+
+***
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+***
+
 # Changelog - `15/01/19`
 ***
 
