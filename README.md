@@ -29,8 +29,8 @@ Voice commands are officially fixed.
 
 ## 𝗛𝗘𝗟𝗣
 
-| Command  | Description |
-| :------------- | -------------: |
+| Command  | Description | Status | 
+| ------------- | ------------- | ------------- |
 | BugReport | Send a bug report directly to my designated channel. | ✔ | 
 | Changelog  | Get the latest information on the current build, and what's changed. | ✔ | 
 | Commands  | Have an advanced embed showing all commands  | ✔ |
