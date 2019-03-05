@@ -40,8 +40,9 @@ Voice commands are officially fixed.
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗚𝗔𝗠𝗘𝗦
-| Command  | Description |
-| :------------- | -------------: |
+
+| Command  | Description | Status | 
+| ------------- | ------------- | -------------: |
 | BetRoll | Bet Peepo Cookies on prediction of the outcome of rolling a dice. |
 | Slots  | Spins the reels of the slot machine and shows you the result. (*Pointless really*) |
 | ThisOrThat  | Asks a this or that question.  |
@@ -70,8 +71,9 @@ Voice commands are officially fixed.
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗩𝗢𝗜𝗖𝗘
-| Command  | Description |
-| :------------- | -------------: |
+
+| Command  | Description | Status | 
+| ------------- | ------------- | -------------: |
 | Airhorn | Plays an airhorn in a voice channel. How to annoy everyone 101. |
 | BuildaWall  | Plays a trump remix of building a wall. |
 | Cyka   | Plays CYKA BLYAT HARDCORE BASS. |
@@ -89,8 +91,9 @@ Voice commands are officially fixed.
   <summary>𝗖𝗢𝗡𝗧𝗔𝗜𝗡𝗦 𝗡𝗦𝗙𝗪</summary>
   
   ## 𝗡𝗦𝗙𝗪
-| Command  | Description |
-| :------------- | -------------: |
+  
+| Command  | Description | Status | 
+| ------------- | ------------- | -------------: |
 | 4Kporn | Obtains a random HIGH QUALITY IMAGE of porn. (*Hello Quality? I'd like to invest in 8K some time.*) |
 | Asian | Obtains a random image of an Asian. (*I won't judge you.*) |
 | Ass  | Obtains a random image of Ass. (*Hello right hand, it's me*) |
@@ -115,8 +118,9 @@ Voice commands are officially fixed.
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗙𝗨𝗡
-| Command  | Description |
-| :------------- | -------------: |
+
+| Command  | Description | Status | 
+| ------------- | ------------- | -------------: |
 | BeLikeBill |    Send a "be like bill meme" to make you feel morally superior to others. |
 | BlockText | Sends the given text as text emojis. |
 | Christmas | Advent-Calendar, runs from 1st to 24th of December. Get yourself a gift daily. 120+ possibilities. |
@@ -137,8 +141,9 @@ Voice commands are officially fixed.
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗜𝗠𝗔𝗚𝗘-𝗙𝗘𝗧𝗖𝗛𝗦
-| Command  | Description |
-| :------------- | -------------: |
+
+| Command  | Description | Status | 
+| ------------- | ------------- | -------------: |
 | Bunny | Fetch a bunny.
 | Cat   | Fetch a kitty. |
 | Dog  | Fetch a cute woofer. |
@@ -149,8 +154,9 @@ Voice commands are officially fixed.
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗜𝗠𝗔𝗚𝗘-𝗠𝗔𝗡𝗜𝗣𝗨𝗟𝗔𝗧𝗜𝗢𝗡
-| Command  | Description |
-| :------------- | -------------: |
+
+| Command  | Description | Status | 
+| ------------- | ------------- | -------------: |
 | Achievement   | Generate a shitty minecraft achievement. *I'll provide one when you die as well* |
 | Beautiful  | Wanna show a user they're beautiful? Go on then. |
 | Bobross   | [RIP BOBROSS] Man, let him paint you. Or someone else.  |
@@ -173,8 +179,9 @@ Voice commands are officially fixed.
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗣𝗟𝗔𝗬𝗘𝗥-𝗦𝗧𝗔𝗧𝗦
-| Command  | Description |
-| :------------- | -------------: |
+
+| Command  | Description | Status | 
+| ------------- | ------------- | -------------: |
 | Destiny2     |  Get stats of any Destiny2 player. |
 | Fortnite     |   Get stats of any Fortnite player. |
 | Overwatch     |   Get stats of any Overwatch player. |
@@ -185,8 +192,9 @@ Voice commands are officially fixed.
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗠𝗜𝗦𝗖
-| Command  | Description |
-| :------------- | -------------: |
+
+| Command  | Description | Status | 
+| ------------- | ------------- | -------------: |
 | EndPoll      |  Ends a poll and shows the results. (*if any*)|
 | IAm     |   Adds yourself to a 'Self-Assignable Role' if the server has any. |
 | IAmNot     |   Removes yourself from a 'Self-Assignable Role'. |
@@ -198,8 +206,9 @@ Voice commands are officially fixed.
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
-| Command  | Description |
-| :------------- | -------------: |
+
+| Command  | Description | Status | 
+| ------------- | ------------- | -------------: |
 | Buy     |  Buy items from the Server's Shop. |
 | Daily     |   Claim your daily Peepo Cookies. |
 | Karma    |   Give Karma to user's within the Discord Server (*Basically Reputation. Removing in the future.*) |
@@ -214,8 +223,9 @@ Voice commands are officially fixed.
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗦𝗘𝗥𝗩𝗘𝗥-𝗖𝗢𝗡𝗙𝗜𝗚𝗨𝗥𝗔𝗧𝗜𝗢𝗡
-| Command  | Description |
-| :------------- | -------------: |
+
+| Command  | Description | Status | 
+| ------------- | ------------- | -------------: |
 | Asar `Server_Admin` | Add a role to the "Self Assignable Role" list. |
 | Disablecommand `Server_Admin` | Disable a specific Peepo command for all use. |
 | Enablecommand `Server_Admin` | Enable a specific Peepo command for all use. |
@@ -242,8 +252,8 @@ Voice commands are officially fixed.
 
 ## 𝗠𝗢𝗗𝗘𝗥𝗔𝗧𝗜𝗢𝗡
 
-| Command  | Description |
-| :------------- | -------------: |
+| Command  | Description | Status | 
+| ------------- | ------------- | -------------: |
 | Ban  | Bans the specified user from your Discord server and removes 7 days of their message history. |
 | Case | Fetches any moderation action, that's placed within the moderation log channel. | 
 | Clear    | Deletes a bulk of specified messages from a text channel of your Discord server. |
