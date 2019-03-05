@@ -43,10 +43,10 @@ Voice commands are officially fixed.
 
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
-| BetRoll | Bet Peepo Cookies on prediction of the outcome of rolling a dice. |
-| Slots  | Spins the reels of the slot machine and shows you the result. (*Pointless really*) |
-| ThisOrThat  | Asks a this or that question.  |
-| WouldYouRather | Asks a would you rather question.  |
+| BetRoll | Bet Peepo Cookies on prediction of the outcome of rolling a dice. | ✔ | 
+| Slots  | Spins the reels of the slot machine and shows you the result. (*Pointless really*) | ✔ | 
+| ThisOrThat  | Asks a this or that question.  | ✔ | 
+| WouldYouRather | Asks a would you rather question.  | ✔ | 
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
@@ -54,19 +54,19 @@ Voice commands are officially fixed.
 
 | Command  | Description |
 | :------------- | -------------: |
-| Avatar  | Shows avatar of a specified user of your Discord server. |
-| ChannelInfo       | Shows information of a specified text or voice channel of your Discord server.   |
-| InRole  | 	Shows members that have a specified role in your Discord server. |
-| Live    | Shows the list of users in your Discord server who are currently streaming. |
-| Ping   | 	Shows the response time and average WebSocket ping of Peepo. |
-| RoleInfo | Shows various information on a specific role. |
-| Roles  | 	Shows all roles and their ID'S |
-| ServerInfo  | 	Shows information of the Discord server. |
-| Stats | 	Shows detailed stats and info of Peepo |
-| TopGames | Shows information of what the most top player games are within the discord server (*Resets after Peepo restarts*)
-| Twitch  | 	Shows information of a live twitch channel. |
-| UserInfo  | Shows information of a specified user of your Discord server. |
-| UserLookup   | 	Fetches basic information of a user from Discord. |
+| Avatar  | Shows avatar of a specified user of your Discord server. | ✔ | 
+| ChannelInfo       | Shows information of a specified text or voice channel of your Discord server.   | ✔ | 
+| InRole  | 	Shows members that have a specified role in your Discord server. | ✔ | 
+| Live    | Shows the list of users in your Discord server who are currently streaming. | ✔ | 
+| Ping   | 	Shows the response time and average WebSocket ping of Peepo. | ✔ | 
+| RoleInfo | Shows various information on a specific role. | ✔ | 
+| Roles  | 	Shows all roles and their ID'S | ✔ | 
+| ServerInfo  | 	Shows information of the Discord server. | ✔ | 
+| Stats | 	Shows detailed stats and info of Peepo | ✔ | 
+| TopGames | Shows information of what the most top player games are within the discord server (*Resets after Peepo restarts*) | ✔ | 
+| Twitch  | 	Shows information of a live twitch channel. | ✔ | 
+| UserInfo  | Shows information of a specified user of your Discord server. | ✔ | 
+| UserLookup   | 	Fetches basic information of a user from Discord. | ✔ | 
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
@@ -74,16 +74,16 @@ Voice commands are officially fixed.
 
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
-| Airhorn | Plays an airhorn in a voice channel. How to annoy everyone 101. |
-| BuildaWall  | Plays a trump remix of building a wall. |
-| Cyka   | Plays CYKA BLYAT HARDCORE BASS. |
-| FBI | Plays "FBI OPEN UP" meme.|
-| Fuckhumanity | Plays a song about fucking all of humanity |
-| Gimmehentai | Plays a song about wanting your own hentai girl | 
-| ManTits   | Plays a sad song about having man-tits. |
-| Steppin  | Plays Spongebob steppin' on a beach. |
-| Thot | Plays "**BE GONE THOT**": |
-| ZING | Plays.. Well. Play it. I won't share this one. |
+| Airhorn | Plays an airhorn in a voice channel. How to annoy everyone 101. | ✔ | 
+| BuildaWall  | Plays a trump remix of building a wall. | ✔ | 
+| Cyka   | Plays CYKA BLYAT HARDCORE BASS. | ✔ | 
+| FBI | Plays "FBI OPEN UP" meme.| ✔ | 
+| Fuckhumanity | Plays a song about fucking all of humanity | ✔ | 
+| Gimmehentai | Plays a song about wanting your own hentai girl |  ✔ | 
+| ManTits   | Plays a sad song about having man-tits. | ✔ | 
+| Steppin  | Plays Spongebob steppin' on a beach. | ✔ | 
+| Thot | Plays "**BE GONE THOT**": | ✔ | 
+| ZING | Plays.. Well. Play it. I won't share this one. | ✔ | 
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
@@ -94,24 +94,24 @@ Voice commands are officially fixed.
   
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
-| 4Kporn | Obtains a random HIGH QUALITY IMAGE of porn. (*Hello Quality? I'd like to invest in 8K some time.*) |
-| Asian | Obtains a random image of an Asian. (*I won't judge you.*) |
-| Ass  | Obtains a random image of Ass. (*Hello right hand, it's me*) |
-| Bdsm | Obtains a random image of BDSM / Bondage. (*Well. Rope me dead.*) |
-| Blowjob | Obtains a random image/gif of a girl giving a Blowjob. (*It's a job to blow air? Wow.*) | 
-| Boobs | Obtains a random image of Boobs. (*Hello right hand, it's me*) |
-| Cameltoe | Obtains a random image of a Cameltoe. (*Hey, did you steal that toe from the camel? Give it back.*) |
-| Cosplay  | Obtains a random image of a sexc Cosplayer.(*Hello Favourite Video game? I'm going to exploit you.*) |
-| Cum | Obtains a random image/gif of a girl receiving cum. (*What a sticky situation.*) | 
-| Creampie | Obtains a random image/gif of a girl receiving a creampie. (*Oh my god. I love Cream pie. Buy me some.*) |
-| Futanari  | Obtains a random image of a dick.. on a girl? (*Hello Mum, I'm scared.*) |
-| Grool  | Obtains a random image of Grool. (*Hello right hand, it's me*) |
-| Hentai  | Obtains a random image/gif of..*sigh*..Hentai.. from an API. (*Hello Police? I'd like to report a crime.*) |
-| Lesbian  | Obtains a random image of Lesbians. (*Hello gay friends, I support you.*) |
-| PornGif  | Obtains a random gif of a pornographic environment. (*Hello Technology? I'd like to thank you.*) |
-| Tentai  | Obtains a random image of Tentacle Porn. (*Hello OCTUSPUS POLICE?! I'M REPORTING ILLEGAL SHIT.*) |
-| Titfuck | Obtains a random image/gif of tit-fucking. (*Why?*) | 
-| Vagina  | Obtains a random image of a Vagina. (*Hello both hands. It's me. Ya boy.*) |
+| 4Kporn | Obtains a random HIGH QUALITY IMAGE of porn. (*Hello Quality? I'd like to invest in 8K some time.*) | ✔ | 
+| Asian | Obtains a random image of an Asian. (*I won't judge you.*) | ✔ | 
+| Ass  | Obtains a random image of Ass. (*Hello right hand, it's me*) | ✔ | 
+| Bdsm | Obtains a random image of BDSM / Bondage. (*Well. Rope me dead.*) | ✔ | 
+| Blowjob | Obtains a random image/gif of a girl giving a Blowjob. (*It's a job to blow air? Wow.*) | ✔ | 
+| Boobs | Obtains a random image of Boobs. (*Hello right hand, it's me*) | ✔ | 
+| Cameltoe | Obtains a random image of a Cameltoe. (*Hey, did you steal that toe from the camel? Give it back.*) | ✔ | 
+| Cosplay  | Obtains a random image of a sexc Cosplayer.(*Hello Favourite Video game? I'm going to exploit you.*) | ✔ | 
+| Cum | Obtains a random image/gif of a girl receiving cum. (*What a sticky situation.*) | ✔ | 
+| Creampie | Obtains a random image/gif of a girl receiving a creampie. (*Oh my god. I love Cream pie. Buy me some.*) | ✔ | 
+| Futanari  | Obtains a random image of a dick.. on a girl? (*Hello Mum, I'm scared.*) | ✔ | 
+| Grool  | Obtains a random image of Grool. (*Hello right hand, it's me*) | ✔ | 
+| Hentai  | Obtains a random image/gif of..*sigh*..Hentai.. from an API. (*Hello Police? I'd like to report a crime.*) | ✔ | 
+| Lesbian  | Obtains a random image of Lesbians. (*Hello gay friends, I support you.*) | ✔ | 
+| PornGif  | Obtains a random gif of a pornographic environment. (*Hello Technology? I'd like to thank you.*) | ✔ | 
+| Tentai  | Obtains a random image of Tentacle Porn. (*Hello OCTUSPUS POLICE?! I'M REPORTING ILLEGAL SHIT.*) | ✔ | 
+| Titfuck | Obtains a random image/gif of tit-fucking. (*Why?*) | ✔ | 
+| Vagina  | Obtains a random image of a Vagina. (*Hello both hands. It's me. Ya boy.*) | ✔ | 
   
 </details>
 
