@@ -28,8 +28,9 @@ Voice commands are officially fixed.
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗛𝗘𝗟𝗣
-| Command | Description   | Status |
-| :--------- | ----------- | --------: |
+| Command  | Description |
+| :------------- | -------------: |
+| Avatar  | Shows avatar of a specified user of your Discord server. |
 | BugReport | Send a bug report directly to my designated channel. | ✔ | 
 | Changelog  | Get the latest information on the current build, and what's changed. | ✔ | 
 | Commands  | Have an advanced embed showing all commands  | ✔ |
