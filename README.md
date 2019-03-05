@@ -3,16 +3,18 @@
 `## Peepo Version - 1.0.1-B - ALPHA ##`
 
 # Peepo Bot Command list:
-### Invite it (him / her.. whatever 76 gender you want) - [CLICK ME TO INVITE](https://discordapp.com/api/oauth2/authorize?client_id=498307423342166026&permissions=8&scope=bot)
-### Support server - [CLICK ME](https://discord.gg/ZCjrs9Z)
-### `Prefix is $`.
-*Peepo automatically creates a role called - **peepo:muted** when using `$mute` command*
+##### Invite it (him / her.. whatever 76 gender you want) - [CLICK ME TO INVITE](https://discordapp.com/api/oauth2/authorize?client_id=498307423342166026&permissions=8&scope=bot)
+##### Support server - [CLICK ME](https://discord.gg/ZCjrs9Z)
+##### `Prefix is $`.
+____
 
-*When using `$mute` I haven't coded an unmute, so make the times accurate or remove them from the **peepo:muted** role.*
+Peepo automatically creates a role called - **peepo:muted** when using `$mute` command
 
-*By default levelling up is disabled, run `$togglelevelups` to enable / disable it.*
+When using `$mute` I haven't coded an unmute, so make the times accurate or remove them from the **peepo:muted** role.
 
-***V2 is when a bunch of new fun / voice commands are deployed.***
+By default levelling up is disabled, run `$togglelevelups` to enable / disable it.
+
+____
 
 ![Peepo](https://media.discordapp.net/attachments/470917386258874368/526976260681891841/roadmap.png?width=634&height=334 "oh god")
 
@@ -26,13 +28,13 @@ Voice commands are officially fixed.
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗛𝗘𝗟𝗣
-| Command  | Description |
-| :------------- | -------------: |
-| BugReport | Send a bug report directly to my designated channel. |
-| Changelog  | Get the latest information on the current build, and what's changed. |
-| Commands  | Have an advanced embed showing all commands  |
-| Help       | Shows help on the specified command.   |
-| Suggest | Send a suggestion report directly to my designated channel.|
+| Command | Description   | Status |
+|---------|-----------|--------|
+| BugReport | Send a bug report directly to my designated channel. | ✔ | 
+| Changelog  | Get the latest information on the current build, and what's changed. | ✔ | 
+| Commands  | Have an advanced embed showing all commands  | ✔ |
+| Help       | Shows help on the specified command.   | ✔ | 
+| Suggest | Send a suggestion report directly to my designated channel.| ✔ |
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
