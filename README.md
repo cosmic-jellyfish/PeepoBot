@@ -19,6 +19,7 @@ ____
 ![Peepo](https://media.discordapp.net/attachments/470917386258874368/526976260681891841/roadmap.png?width=634&height=334 "oh god")
 
 ## 𝗧𝗪𝗘𝗔𝗞𝗘𝗗 𝗜𝗡 𝟭.𝟬.𝟭-𝗕
+
 | Command  | Command |
 | :------------- | :------------- |
 | `magik` | `jpeg` | 
@@ -88,7 +89,9 @@ Voice commands are officially fixed.
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 <details>
+  
   <summary>𝗖𝗢𝗡𝗧𝗔𝗜𝗡𝗦 𝗡𝗦𝗙𝗪</summary>
+  
   
   ## 𝗡𝗦𝗙𝗪
   
