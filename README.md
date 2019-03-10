@@ -22,9 +22,14 @@ ____
 
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
-| `magik` | `jpeg` | ✔ |
-| `clapify` | `karma` | ✔ |
-
+| `beans` | Keep calm and love beans. | ✔ |
+| `personality` | Generate your personality. | ✔ |
+| `vine` | Vine 2.0 here we come. | ✔ |
+| `die` | I really just want to die. | ✔ |
+| `buzz` | BUZZ LIGHT YEAR. | ✔ |
+| `besans` | I'm already TRACER, BE SANS! | ✔ |
+| `scoobs` | Yo scoobs, that's whack. | ✔ |
+| `rollme` | This world is gonna roll me. | ✔ |
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
@@ -89,7 +94,8 @@ ____
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 <details>
-<summary>𝗖𝗢𝗡𝗧𝗔𝗜𝗡𝗦 𝗡𝗦𝗙𝗪</summary> 
+<summary> 𝗖𝗢𝗡𝗧𝗔𝗜𝗡𝗦 𝗡𝗦𝗙𝗪 </summary> 
+  
 ## 𝗡𝗦𝗙𝗪
 
 | Command  | Description | Status | 
@@ -112,7 +118,6 @@ ____
 | Tentai  | Obtains a random image of Tentacle Porn. (*Hello OCTUSPUS POLICE?! I'M REPORTING ILLEGAL SHIT.*) | ✔ | 
 | Titfuck | Obtains a random image/gif of tit-fucking. (*Why?*) | ✔ | 
 | Vagina  | Obtains a random image of a Vagina. (*Hello both hands. It's me. Ya boy.*) | ✔ | 
-
 </details>
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
