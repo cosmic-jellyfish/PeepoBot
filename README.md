@@ -98,32 +98,7 @@ ____
 | `ZING` | Plays.. Well. Play it. I won't share this one. | ✅ | 
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
- 
-## 𝗡𝗦𝗙𝗪
- 
-| Command  | Description | Status | 
-| ------------- | ------------- | -------------: |
-| `4Kporn` | Obtains a random HIGH QUALITY IMAGE of porn. (*Hello Quality? I'd like to invest in 8K some time.*) | ✅ | 
-| `Asian` | Obtains a random image of an Asian. (*I won't judge you.*) | ✅ | 
-| `Ass`  | Obtains a random image of Ass. (*Hello right hand, it's me*) | ✅ | 
-| `Bdsm` | Obtains a random image of BDSM / Bondage. (*Well. Rope me dead.*) | ✅ | 
-| `Blowjob` | Obtains a random image/gif of a girl giving a Blowjob. (*It's a job to blow air? Wow.*) | ✅ | 
-| `Boobs` | Obtains a random image of Boobs. (*Hello right hand, it's me*) | ✅ | 
-| `Cameltoe` | Obtains a random image of a Cameltoe. (*Hey, did you steal that toe from the camel? Give it back.*) | ✅ | 
-| `Cosplay`  | Obtains a random image of a sexc Cosplayer.(*Hello Favourite Video game? I'm going to exploit you.*) | ✅ | 
-| `Cum` | Obtains a random image/gif of a girl receiving cum. (*What a sticky situation.*) | ✅ | 
-| `Creampie` | Obtains a random image/gif of a girl receiving a creampie. (*Oh my god. I love Cream pie. Buy me some.*) | ✅ | 
-| `Futanari`  | Obtains a random image of a dick.. on a girl? (*Hello Mum, I'm scared.*) | ✅ | 
-| `Grool`  | Obtains a random image of Grool. (*Hello right hand, it's me*) | ✅ | 
-| `Hentai`  | Obtains a random image/gif of..*sigh*..Hentai.. from an API. (*Hello Police? I'd like to report a crime.*) | ✅ | 
-| `Lesbian` | Obtains a random image of Lesbians. (*Hello gay friends, I support you.*) | ✅ | 
-| `PornGif`  | Obtains a random gif of a pornographic environment. (*Hello Technology? I'd like to thank you.*) | ✅ | 
-| `Tentai` | Obtains a random image of Tentacle Porn. (*Hello OCTUSPUS POLICE?! I'M REPORTING ILLEGAL SHIT.*) | ✅ | 
-| `Titfuck` | Obtains a random image/gif of tit-fucking. (*Why?*) | ✅ | 
-| `Vagina`  | Obtains a random image of a Vagina. (*Hello both hands. It's me. Ya boy.*) | ✅ | 
-
-![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
-
+  
 ## 𝗙𝗨𝗡
 
 | Command  | Description | Status | 
@@ -273,3 +248,28 @@ ____
 | `UnBan`  | You know what this does. | ✅ | 
 | `Warn`   | Warns the specified user. If three warns are given, some action, created by the warnAction command, is taken. | ✅ | 
 | `WarnAction`  | Sets the warn action for the server {*Used for above command*}. | ✅ | 
+
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)   
+
+## 𝗡𝗦𝗙𝗪
+ 
+| Command  | Description | Status | 
+| ------------- | ------------- | -------------: |
+| `4Kporn` | Obtains a random HIGH QUALITY IMAGE of porn. (*Hello Quality? I'd like to invest in 8K some time.*) | ✅ | 
+| `Asian` | Obtains a random image of an Asian. (*I won't judge you.*) | ✅ | 
+| `Ass`  | Obtains a random image of Ass. (*Hello right hand, it's me*) | ✅ | 
+| `Bdsm` | Obtains a random image of BDSM / Bondage. (*Well. Rope me dead.*) | ✅ | 
+| `Blowjob` | Obtains a random image/gif of a girl giving a Blowjob. (*It's a job to blow air? Wow.*) | ✅ | 
+| `Boobs` | Obtains a random image of Boobs. (*Hello right hand, it's me*) | ✅ | 
+| `Cameltoe` | Obtains a random image of a Cameltoe. (*Hey, did you steal that toe from the camel? Give it back.*) | ✅ | 
+| `Cosplay`  | Obtains a random image of a sexc Cosplayer.(*Hello Favourite Video game? I'm going to exploit you.*) | ✅ | 
+| `Cum` | Obtains a random image/gif of a girl receiving cum. (*What a sticky situation.*) | ✅ | 
+| `Creampie` | Obtains a random image/gif of a girl receiving a creampie. (*Oh my god. I love Cream pie. Buy me some.*) | ✅ | 
+| `Futanari`  | Obtains a random image of a dick.. on a girl? (*Hello Mum, I'm scared.*) | ✅ | 
+| `Grool`  | Obtains a random image of Grool. (*Hello right hand, it's me*) | ✅ | 
+| `Hentai`  | Obtains a random image/gif of..*sigh*..Hentai.. from an API. (*Hello Police? I'd like to report a crime.*) | ✅ | 
+| `Lesbian` | Obtains a random image of Lesbians. (*Hello gay friends, I support you.*) | ✅ | 
+| `PornGif`  | Obtains a random gif of a pornographic environment. (*Hello Technology? I'd like to thank you.*) | ✅ | 
+| `Tentai` | Obtains a random image of Tentacle Porn. (*Hello OCTUSPUS POLICE?! I'M REPORTING ILLEGAL SHIT.*) | ✅ | 
+| `Titfuck` | Obtains a random image/gif of tit-fucking. (*Why?*) | ✅ | 
+| `Vagina`  | Obtains a random image of a Vagina. (*Hello both hands. It's me. Ya boy.*) | ✅ | 
