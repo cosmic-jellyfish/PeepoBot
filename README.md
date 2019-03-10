@@ -31,6 +31,7 @@ ____
 | `besans` | I'm already TRACER, BE SANS! | ✅ |
 | `scoobs` | Yo scoobs, that's whack. | ✅ |
 | `rollme` | This world is gonna roll me. | ✅ |
+| `mystate` | My state of mind. | ✅ |
 | `Lesbian` | I FIXED THIS COMMAND. | 🔞 |
 | `Apex Legends Random Drop` | Peepo will tell you where to go. | 🚧 |
 | `Apex Legends Profile-Stats` | Look at how bad you are. | 🚧 |
