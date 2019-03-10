@@ -30,6 +30,9 @@ ____
 | `besans` | I'm already TRACER, BE SANS! | ✔ |
 | `scoobs` | Yo scoobs, that's whack. | ✔ |
 | `rollme` | This world is gonna roll me. | ✔ |
+| `Lesbian` | I FIXED THIS COMMAND. | 🔞 |
+| `Apex Legends Random Drop` | Peepo will tell you where to go. | 🚧 |
+| `Apex Legends Profile-Stats` | Look at how bad you are. | 🚧 |
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
