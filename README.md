@@ -18,13 +18,13 @@ ____
 
 ![Peepo](https://media.discordapp.net/attachments/470917386258874368/526976260681891841/roadmap.png?width=634&height=334 "oh god")
 
-## 𝗧𝗪𝗘𝗔𝗞𝗘𝗗 𝗜𝗡 𝟭.𝟬.𝟭-𝗕
+## 𝗖𝗢𝗠𝗜𝗡𝗚 𝗜𝗡 𝗨𝗣𝗗𝗔𝗧𝗘 𝟭.𝟮
 
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
-| `magik` | `jpeg` | 
-| `clapify` | `karma` | 
-Voice commands are officially fixed.
+| `magik` | `jpeg` | ✔ |
+| `clapify` | `karma` | ✔ |
+
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
@@ -89,8 +89,7 @@ Voice commands are officially fixed.
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 <details>
-<summary>𝗖𝗢𝗡𝗧𝗔𝗜𝗡𝗦 𝗡𝗦𝗙𝗪</summary>
-  
+<summary>𝗖𝗢𝗡𝗧𝗔𝗜𝗡𝗦 𝗡𝗦𝗙𝗪</summary> 
 ## 𝗡𝗦𝗙𝗪
 
 | Command  | Description | Status | 
