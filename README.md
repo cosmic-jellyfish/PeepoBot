@@ -22,8 +22,6 @@ ____
 
 <details>
  
-| Command  | Description | Status | 
-| ------------- | ------------- | -------------: |
 | `beans` | Keep calm and love beans. | ✅ |
 | `personality` | Generate your personality. | ✅ |
 | `vine` | Vine 2.0 here we come. | ✅ |
