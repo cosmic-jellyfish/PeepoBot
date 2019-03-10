@@ -20,8 +20,8 @@ ____
 
 ## 𝗧𝗪𝗘𝗔𝗞𝗘𝗗 𝗜𝗡 𝟭.𝟬.𝟭-𝗕
 
-| Command  | Command |
-| :------------- | :------------- |
+| Command  | Description | Status | 
+| ------------- | ------------- | -------------: |
 | `magik` | `jpeg` | 
 | `clapify` | `karma` | 
 Voice commands are officially fixed.
@@ -89,10 +89,10 @@ Voice commands are officially fixed.
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 <details>
-
-  <summary>𝗖𝗢𝗡𝗧𝗔𝗜𝗡𝗦 𝗡𝗦𝗙𝗪</summary>
-## 𝗡𝗦𝗙𝗪
+<summary>𝗖𝗢𝗡𝗧𝗔𝗜𝗡𝗦 𝗡𝗦𝗙𝗪</summary>
   
+## 𝗡𝗦𝗙𝗪
+
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
 | 4Kporn | Obtains a random HIGH QUALITY IMAGE of porn. (*Hello Quality? I'd like to invest in 8K some time.*) | ✔ | 
