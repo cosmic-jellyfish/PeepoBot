@@ -146,7 +146,7 @@ Voice commands are officially fixed.
 ## 𝗜𝗠𝗔𝗚𝗘-𝗙𝗘𝗧𝗖𝗛𝗦
 
 | Command  | Description | Status | 
-| ------------- | ------------- | -------------: | ✔ | 
+| ------------- | ------------- | -------------: |
 | Bunny | Fetch a bunny. | ✔ | 
 | Cat   | Fetch a kitty. | ✔ | 
 | Dog  | Fetch a cute woofer. | ✔ | 
