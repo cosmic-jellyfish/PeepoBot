@@ -20,8 +20,10 @@ ____
 
 ## 𝗖𝗢𝗠𝗜𝗡𝗚 𝗜𝗡 𝗨𝗣𝗗𝗔𝗧𝗘 𝟭.𝟮
 
-<details>
+<summary>
  
+| Command  | Description | Status | 
+| ------------- | ------------- | -------------: | 
 | `beans` | Keep calm and love beans. | ✅ |
 | `personality` | Generate your personality. | ✅ |
 | `vine` | Vine 2.0 here we come. | ✅ |
@@ -34,7 +36,7 @@ ____
 | `Apex Legends Random Drop` | Peepo will tell you where to go. | 🚧 |
 | `Apex Legends Profile-Stats` | Look at how bad you are. | 🚧 |
  
-</details>
+</summary>
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
