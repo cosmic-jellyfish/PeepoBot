@@ -41,8 +41,6 @@ ____
 
 ## 𝗛𝗘𝗟𝗣
 
-<details>
-
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
 | BugReport | Send a bug report directly to my designated channel. | ✅ | 
@@ -51,13 +49,9 @@ ____
 | Help       | Shows help on the specified command.   | ✅ | 
 | Suggest | Send a suggestion report directly to my designated channel.| ✅ |
 
-</details>
-
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗚𝗔𝗠𝗘𝗦
-
-<details>
 
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
@@ -66,13 +60,9 @@ ____
 | ThisOrThat  | Asks a this or that question.  | ✅ | 
 | WouldYouRather | Asks a would you rather question.  | ✅ | 
 
-</details>
-
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗜𝗡𝗙𝗢
-
-<details>
 
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
@@ -90,13 +80,9 @@ ____
 | UserInfo  | Shows information of a specified user of your Discord server. | ✅ | 
 | UserLookup   | 	Fetches basic information of a user from Discord. | ✅ | 
 
-</details>
-
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗩𝗢𝗜𝗖𝗘
-
-<details>
 
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
@@ -111,15 +97,9 @@ ____
 | Thot | Plays "**BE GONE THOT**": | ✅ | 
 | ZING | Plays.. Well. Play it. I won't share this one. | ✅ | 
 
-</details>
-
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
-
-
  
 ## 𝗡𝗦𝗙𝗪
-
-<details>
  
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
@@ -142,13 +122,9 @@ ____
 | Titfuck | Obtains a random image/gif of tit-fucking. (*Why?*) | ✅ | 
 | Vagina  | Obtains a random image of a Vagina. (*Hello both hands. It's me. Ya boy.*) | ✅ | 
 
-</details>
-
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗙𝗨𝗡
-
-<details>
 
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
@@ -167,14 +143,10 @@ ____
 | Skyrim | I use to write full descriptions until I took an arr-- | ✅ | 
 | Slap   |   User being a bitch? Slap them back into place. | ✅ | 
 | Vaporwave | ＴＨＩＳ ＩＳ ＣＯＯＬ| ✅ | 
-
-</details>
  
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗜𝗠𝗔𝗚𝗘-𝗙𝗘𝗧𝗖𝗛𝗦
-
-<details>
 
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
@@ -184,14 +156,10 @@ ____
 | Duck | Fetch a quacker. | ✅ | 
 | Fox | Fetch a fox. |  ✅ | 
 | Meme | Fetch a dank meme. | ✅ | 
-
-</details>
  
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗜𝗠𝗔𝗚𝗘-𝗠𝗔𝗡𝗜𝗣𝗨𝗟𝗔𝗧𝗜𝗢𝗡
-
-<details>
 
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
@@ -214,13 +182,9 @@ ____
 | VaultBoy | I've always wanted to be a Fallout survivor | ✅ |  
 | VirtualReality | This is so realistic. I wanna cry | ✅ | 
 
-</details>
-
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗣𝗟𝗔𝗬𝗘𝗥-𝗦𝗧𝗔𝗧𝗦
-
-<details>
 
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
@@ -231,13 +195,9 @@ ____
 
 *Adding new ones soon. Some API'S were removed*
 
-</details>
-
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗠𝗜𝗦𝗖
-
-<details>
 
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
@@ -249,13 +209,9 @@ ____
 | PollStats     |   Get information on a poll that is running. | ✅ | 
 | Shop `Server_Admin`    |   Set up a Shop for users to purchase virtual items with their Peepo Cookies. | ✅ | 
 
-</details>
-
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
-
-<details>
 
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
@@ -270,13 +226,9 @@ ____
 | SetBio     |   Set your Bio for your `$profile` so anyoen can view. | ✅ | 
 | SetBirthDate     |   Set your Birthdate for your `$profile` so anyone can view. | ✅ | 
 
-</details>
-
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗦𝗘𝗥𝗩𝗘𝗥-𝗖𝗢𝗡𝗙𝗜𝗚𝗨𝗥𝗔𝗧𝗜𝗢𝗡
-
-<details>
 
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
@@ -302,13 +254,9 @@ ____
 | ToggleLevelUps `Server_Owner` | Enable / Disable levelling up within your server. (*By default this is **OFF***) | ✅ | 
 | TogglePeepo `Server_Owner` | Enable / Disable Peepo within your server. (*This includes all modules + commands*) |  ✅ | 
 
-</details>
-
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗠𝗢𝗗𝗘𝗥𝗔𝗧𝗜𝗢𝗡
-
-<details>
 
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
@@ -325,5 +273,3 @@ ____
 | UnBan  | You know what this does. | ✅ | 
 | Warn   | Warns the specified user. If three warns are given, some action, created by the warnAction command, is taken. | ✅ | 
 | WarnAction  | Sets the warn action for the server {*Used for above command*}. | ✅ | 
-
-</details>
