@@ -97,8 +97,10 @@ ____
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 <details>
+ <summary> Contains NSFW</summary>
  
 ## 𝗡𝗦𝗙𝗪
+
 
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
@@ -120,7 +122,9 @@ ____
 | Tentai  | Obtains a random image of Tentacle Porn. (*Hello OCTUSPUS POLICE?! I'M REPORTING ILLEGAL SHIT.*) | ✅ | 
 | Titfuck | Obtains a random image/gif of tit-fucking. (*Why?*) | ✅ | 
 | Vagina  | Obtains a random image of a Vagina. (*Hello both hands. It's me. Ya boy.*) | ✅ | 
+
 </details>
+
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗙𝗨𝗡
