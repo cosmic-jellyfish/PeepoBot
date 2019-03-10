@@ -96,14 +96,13 @@ ____
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
-<details>
- <summary> Contains NSFW</summary>
+
  
 ## 𝗡𝗦𝗙𝗪
-
+<details>
+ 
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
-
 | 4Kporn | Obtains a random HIGH QUALITY IMAGE of porn. (*Hello Quality? I'd like to invest in 8K some time.*) | ✅ | 
 | Asian | Obtains a random image of an Asian. (*I won't judge you.*) | ✅ | 
 | Ass  | Obtains a random image of Ass. (*Hello right hand, it's me*) | ✅ | 
