@@ -88,11 +88,6 @@ Voice commands are officially fixed.
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
-<details>
-  
-  <summary>𝗖𝗢𝗡𝗧𝗔𝗜𝗡𝗦 𝗡𝗦𝗙𝗪</summary>
-  
-  
   ## 𝗡𝗦𝗙𝗪
   
 | Command  | Description | Status | 
@@ -115,8 +110,7 @@ Voice commands are officially fixed.
 | Tentai  | Obtains a random image of Tentacle Porn. (*Hello OCTUSPUS POLICE?! I'M REPORTING ILLEGAL SHIT.*) | ✔ | 
 | Titfuck | Obtains a random image/gif of tit-fucking. (*Why?*) | ✔ | 
 | Vagina  | Obtains a random image of a Vagina. (*Hello both hands. It's me. Ya boy.*) | ✔ | 
-  
-</details>
+
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
