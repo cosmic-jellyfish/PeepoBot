@@ -87,12 +87,20 @@ ____
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
 | `Airhorn` | Plays an airhorn in a voice channel. How to annoy everyone 101. | ✅ | 
+| `Besans` | I'm already TRACER, BE SANS! | ✅ |
 | `BuildaWall`  | Plays a trump remix of building a wall. | ✅ | 
+| `Buzz` | BUZZ LIGHTYEAR! | ✅ | 
 | `Cyka`   | Plays CYKA BLYAT HARDCORE BASS. | ✅ | 
+| `Die` | I really just wanna die. | ✅ | 
 | `FBI` | Plays "FBI OPEN UP" meme.| ✅ | 
 | `Fuckhumanity` | Plays a song about fucking all of humanity | ✅ | 
-| `Gimmehentai` | Plays a song about wanting your own hentai girl |  ✅ | 
+| `Gimmehentai` | Plays a song about wanting your own hentai girl. |  ✅ | 
+| `LaO` | Law AND ORDER! DUN DUN. |  ✅ |
+| `Lion` | Iconic lion-king theme thing. |  ✅ |
 | `ManTits`   | Plays a sad song about having man-tits. | ✅ | 
+| `Mystate`   | My state of mind. | ✅ | 
+| `Rollme` | This world is gonna roll me. | ✅ |
+| `Scoobs` | Yo scoobs, that's whack. | ✅ |
 | `Steppin`  | Plays Spongebob steppin' on a beach. | ✅ | 
 | `Thot` | Plays "**BE GONE THOT**": | ✅ | 
 | `ZING` | Plays.. Well. Play it. I won't share this one. | ✅ | 
@@ -103,6 +111,7 @@ ____
 
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
+| `Beans` | Bean you, bean me. Bean everybody in the world. | ✅ | 
 | `BeLikeBill` |    Send a "be like bill meme" to make you feel morally superior to others. | ✅ | 
 | `BlockText` | Sends the given text as text emojis. | ✅ | 
 | `Christmas` | Advent-Calendar, runs from 1st to 24th of December. Get yourself a gift daily. 120+ possibilities. | ✅ | 
@@ -112,12 +121,14 @@ ____
 | `FidgetSpinner`   |   Fuck me why did I even add this, kill myself. | ✅ | 
 | `Fortune`  | Tells you your fortune... from a fortune cookie. Neat. | ✅ | 
 | `Insult` | Hey you. *Yeah you.* Go fuck yourself. |  ✅ | 
+| `Personality` | Discover your true personality. |  ✅ | 
 | `Pickup`    | Got the hots for a girl and don't know what to say? You added me to your server. I'm basically your wingman now. | ✅ | 
 | `Punch`  |    Start a fight! Punch a god damn user. | ✅ | 
 | `Ship`      |   Combines two or more mentioned user's names. | ✅ | 
 | `Skyrim` | I use to write full descriptions until I took an arr-- | ✅ | 
 | `Slap`   |   User being a bitch? Slap them back into place. | ✅ | 
 | `Vaporwave` | ＴＨＩＳ ＩＳ ＣＯＯＬ| ✅ | 
+| `Vine` | Well ain't this just a classic. |  ✅ | 
  
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
