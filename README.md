@@ -1,6 +1,6 @@
 ![Peepo](https://media3.giphy.com/media/ZhHC3DGCUwVi0/giphy.gif "Meme bot")
 
-`## Peepo Version - 1.0.1-B - ALPHA ##`
+`## Peepo Version - 1.2 - ALPHA ##`
 
 # Peepo Bot Command list:
 ##### Invite it (him / her.. whatever 76 gender you want) - [CLICK ME TO INVITE](https://discordapp.com/api/oauth2/authorize?client_id=498307423342166026&permissions=8&scope=bot)
@@ -36,26 +36,6 @@ By default levelling up is disabled, run `$togglelevelups` to enable / disable i
 [**NSFW** Commands](https://github.com/peepoboi/PeepoBot#%F0%9D%97%A1%F0%9D%97%A6%F0%9D%97%99%F0%9D%97%AA)
 
 ____
-
-![Peepo](https://media.discordapp.net/attachments/470917386258874368/526976260681891841/roadmap.png?width=634&height=334 "oh god")
-
-## 𝗖𝗢𝗠𝗜𝗡𝗚 𝗜𝗡 𝗨𝗣𝗗𝗔𝗧𝗘 𝟭.𝟮
-
- 
-| Command  | Description | Status | 
-| ------------- | ------------- | -------------: | 
-| `beans` | Keep calm and love beans. | ✅ |
-| `personality` | Generate your personality. | ✅ |
-| `vine` | Vine 2.0 here we come. | ✅ |
-| `die` | I really just want to die. | ✅ |
-| `buzz` | BUZZ LIGHT YEAR. | ✅ |
-| `besans` | I'm already TRACER, BE SANS! | ✅ |
-| `scoobs` | Yo scoobs, that's whack. | ✅ |
-| `rollme` | This world is gonna roll me. | ✅ |
-| `mystate` | My state of mind. | ✅ |
-| `Lesbian` | I FIXED THIS COMMAND. | 🔞 |
-
-*Due to un-used module - **PROFILE** it was removed in update 1.2 due to lack of use, this will allow me to go back the to the way things were and just have Peepo be fun.
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
