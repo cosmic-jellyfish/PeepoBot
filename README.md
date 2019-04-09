@@ -179,27 +179,8 @@ ____
 | `EndPoll`     |  Ends a poll and shows the results. (*if any*)| ✅ | 
 | `IAm`     |   Adds yourself to a 'Self-Assignable Role' if the server has any. | ✅ | 
 | `IAmNot`     |   Removes yourself from a 'Self-Assignable Role'. | ✅ | 
-| `Leaderboard`     |  Show's a Leaderboard of who's got the most XP and such within the server. | ✅ | 
 | `Poll`     |   Create a poll with 2 options and set a time (*Default time if not provided is 60 minutes*) | ✅ | 
 | `PollStats`     |   Get information on a poll that is running. | ✅ | 
-| `Shop` `Server_Admin`    |   Set up a Shop for users to purchase virtual items with their Peepo Cookies. | ✅ | 
-
-![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
-
-## 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
-
-| Command  | Description | Status | 
-| ------------- | ------------- | -------------: |
-| `Buy`     |  Buy items from the Server's Shop. | ✅ | 
-| `Daily`     |   Claim your daily Peepo Cookies. | ✅ | 
-| `Karma`    |   Give Karma to user's within the Discord Server (*Basically Reputation. Removing in the future.*) | ✅ | 
-| `Level`     |   Shows your level and the amount of XP (Experience points) remaining for next level. (*Removing in future*) | ✅ | 
-| `MyItems`     |   Shows what items you've bought from the Server's Shop. | ✅ | 
-| `PeepoCookies`     |   Show's the amount of Peepo Cookies you or anyone has. | ✅ | 
-| `Profile`     |   Show's yours / anyone's Profile within that Discord Server and a bit of information on it. | ✅ | 
-| `Rank`     |   Shows yours / anyone's rank within the Discord Server. (*Removing in future*) | ✅ | 
-| `SetBio`     |   Set your Bio for your `$profile` so anyoen can view. | ✅ | 
-| `SetBirthDate`     |   Set your Birthdate for your `$profile` so anyone can view. | ✅ | 
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
@@ -210,22 +191,15 @@ ____
 | `Asar` `Server_Admin` | Add a role to the "Self Assignable Role" list. | ✅ | 
 | `Disablecommand` `Server_Admin` | Disable a specific Peepo command for all use. | ✅ | 
 | `Enablecommand` `Server_Admin` | Enable a specific Peepo command for all use. | ✅ | 
-| `Give`   | Give a user of your choosing some Peepo Cookies. | ✅ | 
-| `GiveXP` `Server_Owner`   | Give a user of your choosing XP (Experience points) | ✅ | 
-| `LevelUpMessage` `Server_Admin`| Enable / Disable level up messages for when a user level's up. |  ✅ | 
-| `LevelUpRole` `Server_Admin`  | Enable / Disable an automatic role users are placed in when they level up. | ✅ | 
 | `Lsar`  `Server_Admin` | List the "Self Assignable Role" list. | ✅ | 
 | `MembersOnly` `Server_Admin` | Disable Peepo from being used from users without a role. | ✅ | 
 | `ModLog`   `Server_Admin` | Shows various Moderation (*Audit*) logs. (*Pointless, view your Audit log*.) | ✅ | 
 | `Rsar`    `Server_Admin`| Remove a role from the "Self Assignable Role" list. | ✅ | 
 | `ReportChannel`  `Server_Admin`| Set a specific channel designated for users that use the `$report` command. |✅ | 
 | `ResetModerationLogs`    `Server_Admin`| Resets the Mod-Log back to 1. | ✅ | 
-| `RoleStore` | View the Role Store on what you can buy with the virtual currency (PC - Peepo Cookies) | ✅ | 
-| `SellRole`   `Server_Admin`| Sell a Role so those with the right amount of PC can buy that specific role. | ✅ | 
 | `ServerSettings`  | Shows various moderation settings on what's been toggled and what hasn't been. | ✅ | 
 | `StreamerRole` `Server_Admin`| Make a specific role the "Streamer Role" so when a user starts streaming, he's automatically placed there. | ✅ | 
 | `Streamers` `Server_Admin`  | Adds / removes / displays the list of streamers followed by the server to get notified when they are live. | ✅ | 
-| `Take` `Server_Admin`  | Take any amount of (PC - Peepo Cookies) from a user. | ✅ | 
 | `ToggleLevelUps` `Server_Owner` | Enable / Disable levelling up within your server. (*By default this is **OFF***) | ✅ | 
 | `TogglePeepo` `Server_Owner` | Enable / Disable Peepo within your server. (*This includes all modules + commands*) |  ✅ | 
 
