@@ -7,6 +7,7 @@
 | :------------- | -------------: |
 | `beans` | Some stupid 3am code or something. Beans beans beans  |
 | `personality` | Generate your personality. | 
+| `vine` | Those juicy classic vines are back. | 
 | `besans`  | This is a voice command, use it to find out. Can't be assed typing it here. | 
 | `buzz`  | This is a voice command, use it to find out. Can't be assed typing it here. | 
 | `die`  | This is a voice command, use it to find out. Can't be assed typing it here.  | 
