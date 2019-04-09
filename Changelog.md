@@ -1,3 +1,58 @@
+# Changelog - `09/04/19`
+***
+
+### ADDED
+***
+| Command  | Description |
+| :------------- | -------------: |
+| `beans` | Some stupid 3am code or something. Beans beans beans  |
+| `personality` | Generate your personality. | 
+| `besans`  | This is a voice command, use it to find out. Can't be assed typing it here. | 
+| `buzz`  | This is a voice command, use it to find out. Can't be assed typing it here. | 
+| `die`  | This is a voice command, use it to find out. Can't be assed typing it here.  | 
+| `mystate`  | This is a voice command, use it to find out. Can't be assed typing it here.  | 
+| `rollme`  | This is a voice command, use it to find out. Can't be assed typing it here.  | 
+| `scoobs`  | This is a voice command, use it to find out. Can't be assed typing it here.  | 
+
+All stated above are available to be seen using `$commands` except for the Owner module. 
+    
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+
+### REMOVED
+***
+| Module  | Description |
+| :------------- | -------------: |
+| `Profiles` | Due to inactivity this module and all corresponding commands were removed. |
+
+### TWEAKED
+***
+| Command / Module  | Description |
+| :------------- | -------------: |
+| `Server-configuration [Module]` | Module was tweaked due to deletion of profiles module, all corrsponding commands were deleted. |
+| `help` | Command was tweaked to have the user mentioned when used. |
+| `incorrect-usage [back-end]` | This was tweaked to have the user mentioned if the command was incorrectly used. |
+| `Peepo game-stats` | Peepo was updated to have more game activity showing instead of the old boring 2 that were on repeat. |
+
+### FIXED
+***
+| Module  | Description |
+| :------------- | -------------: |
+| `hentai` | Removed a few inaccurate sub-reddits.   |
+| `lesbian` | Revamped the command, it killed itself. It became aware.   |
+
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+
+   
+### PERSONAL NOTE
+***
+IDK, next update is some time.
+
+
+***
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+***
+
 # Changelog - `27/01/19`
 ***
 
