@@ -14,6 +14,27 @@ When using `$mute` I haven't coded an unmute, so make the times accurate or remo
 
 By default levelling up is disabled, run `$togglelevelups` to enable / disable it.
 
+# Table of Contents
+[**HELP** Commands](https://github.com/peepoboi/PeepoBot#%F0%9D%97%9B%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%A3)
+
+[**GAMES** Commands](https://github.com/peepoboi/PeepoBot#%F0%9D%97%9A%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%98%F0%9D%97%A6)
+
+[**VOICE** Commands](https://github.com/peepoboi/PeepoBot#%F0%9D%97%A9%F0%9D%97%A2%F0%9D%97%9C%F0%9D%97%96%F0%9D%97%98)
+
+[**FUN** Commands](https://github.com/peepoboi/PeepoBot#%F0%9D%97%99%F0%9D%97%A8%F0%9D%97%A1)
+
+[**IMAGE-FETCH** Commands](https://github.com/peepoboi/PeepoBot#%F0%9D%97%9C%F0%9D%97%A0%F0%9D%97%94%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%99%F0%9D%97%98%F0%9D%97%A7%F0%9D%97%96%F0%9D%97%9B%F0%9D%97%A6)
+
+[**IMAGE-MANIPULATION** Commands](https://github.com/peepoboi/PeepoBot#%F0%9D%97%9C%F0%9D%97%A0%F0%9D%97%94%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%A0%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%9C%F0%9D%97%A3%F0%9D%97%A8%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1)
+
+[**PLAYER-STATS** Commands](https://github.com/peepoboi/PeepoBot#%F0%9D%97%9C%F0%9D%97%A0%F0%9D%97%94%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%A0%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%9C%F0%9D%97%A3%F0%9D%97%A8%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1)
+
+[**SERVER-CONFIGURATION** Commands](https://github.com/peepoboi/PeepoBot#%F0%9D%97%A6%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%A5-%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%9A%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1)
+
+[**MODERATION** Commands](https://github.com/peepoboi/PeepoBot#%F0%9D%97%A0%F0%9D%97%A2%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1)
+
+[**NSFW** Commands](https://github.com/peepoboi/PeepoBot#%F0%9D%97%A1%F0%9D%97%A6%F0%9D%97%99%F0%9D%97%AA)
+
 ____
 
 ![Peepo](https://media.discordapp.net/attachments/470917386258874368/526976260681891841/roadmap.png?width=634&height=334 "oh god")
@@ -33,10 +54,8 @@ ____
 | `rollme` | This world is gonna roll me. | ✅ |
 | `mystate` | My state of mind. | ✅ |
 | `Lesbian` | I FIXED THIS COMMAND. | 🔞 |
-| `Apex Legends Random Drop` | Peepo will tell you where to go. | 🚧 |
-| `Apex Legends Profile-Stats` | Look at how bad you are. | 🚧 |
- 
 
+*Due to un-used module - **PROFILE** it was removed in update 1.2 due to lack of use, this will allow me to go back the to the way things were and just have Peepo be fun.
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
