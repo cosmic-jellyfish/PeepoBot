@@ -1,3 +1,25 @@
+# Changelog - `14/04/19`
+***
+
+### FIXED
+***
+| Module  | Description |
+| :------------- | -------------: |
+| `userinfo` | User-creation date for Discord now correctly displays.   |
+
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+
+   
+### PERSONAL NOTE
+***
+IDK, next update is some time.
+
+
+***
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+***
+
 # Changelog - `09/04/19`
 ***
 
