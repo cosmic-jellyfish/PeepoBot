@@ -211,7 +211,6 @@ ____
 | `ServerSettings`  | Shows various moderation settings on what's been toggled and what hasn't been. | ✅ | 
 | `StreamerRole` `Server_Admin`| Make a specific role the "Streamer Role" so when a user starts streaming, he's automatically placed there. | ✅ | 
 | `Streamers` `Server_Admin`  | Adds / removes / displays the list of streamers followed by the server to get notified when they are live. | ✅ | 
-| `ToggleLevelUps` `Server_Owner` | Enable / Disable levelling up within your server. (*By default this is **OFF***) | ✅ | 
 | `TogglePeepo` `Server_Owner` | Enable / Disable Peepo within your server. (*This includes all modules + commands*) |  ✅ | 
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
