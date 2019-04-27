@@ -55,7 +55,6 @@ ____
 
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
-| `BetRoll` | Bet Peepo Cookies on prediction of the outcome of rolling a dice. | ✅ | 
 | `Slots`  | Spins the reels of the slot machine and shows you the result. (*Pointless really*) | ✅ | 
 | `ThisOrThat`  | Asks a this or that question.  | ✅ | 
 | `WouldYouRather` | Asks a would you rather question.  | ✅ | 
