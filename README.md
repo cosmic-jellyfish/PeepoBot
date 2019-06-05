@@ -3,9 +3,12 @@
 `## Peepo Version - 1.2 - ALPHA ##`
 
 # Peepo Bot Command list:
-##### Invite it (him / her.. whatever 76 gender you want) - [CLICK ME TO INVITE](https://discordapp.com/api/oauth2/authorize?client_id=498307423342166026&permissions=8&scope=bot)
 ##### Support server - [CLICK ME](https://discord.gg/ZCjrs9Z)
 ##### `Prefix is $`.
+
+
+# Peepo has *OFFICIALLY* shutdown due to lack of funds and time able to invest in active development. Peepo may return later in the future but no ETA will be announced. Peepo is safely backed up for me to re-upload easily later on. Sorry about the news.
+
 ____
 
 Peepo automatically creates a role called - **peepo:muted** when using `$mute` command
