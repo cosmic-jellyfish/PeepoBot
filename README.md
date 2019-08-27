@@ -6,16 +6,13 @@
 ##### Support server - [CLICK ME](https://discord.gg/ZCjrs9Z)
 ##### `Prefix is $`.
 
-
-# Peepo has *OFFICIALLY* shutdown due to lack of funds and time able to invest in active development. Peepo may return later in the future but no ETA will be announced. Peepo is safely backed up for me to re-upload easily later on. Sorry about the news.
-
 ____
 
 Peepo automatically creates a role called - **peepo:muted** when using `$mute` command
 
 When using `$mute` I haven't coded an unmute, so make the times accurate or remove them from the **peepo:muted** role.
 
-By default levelling up is disabled, run `$togglelevelups` to enable / disable it.
+
 
 # Table of Contents
 [**HELP** Commands](https://github.com/peepoboi/PeepoBot#%F0%9D%97%9B%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%A3)
