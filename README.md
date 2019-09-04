@@ -1,6 +1,6 @@
 ![Peepo](https://media3.giphy.com/media/ZhHC3DGCUwVi0/giphy.gif "Meme bot")
 
-`## Peepo Version - 1.2 - ALPHA ##`
+`## Peepo Version - 1.3 - ALPHA ##`
 
 # Peepo Bot Command list:
 ##### Support server - [CLICK ME](https://discord.gg/ZCjrs9Z)
