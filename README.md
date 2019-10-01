@@ -149,24 +149,25 @@ ____
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
 | `Achievement`   | Generate a shitty minecraft achievement. *I'll provide one when you die as well* | ✅ | 
-| `Beautiful`  | Wanna show a user they're beautiful? Go on then. | ✅ | 
-| `Bobross`   | [RIP BOBROSS] Man, let him paint you. Or someone else.  | ✅ | 
-| `Changemymind`   | Change my mind on something, I dare you. I fucking DOUBLE DARE YOU. | ✅ | 
+| `Beautiful`  | Wanna show a user they're beautiful? Go on then. | ❌ | 
+| `Bobross`   | [RIP BOBROSS] Man, let him paint you. Or someone else.  | ❌ | 
+| `Changemymind`   | Change my mind on something, I dare you. I fucking DOUBLE DARE YOU. | ❌ | 
 | `Clyde`  | Mock up some text from the default Discord Bot. | ✅ | 
-| `Confused`  | Be confused. You're confusing. Send it. | ✅ | 
+| `Confused`  | Be confused. You're confusing. Send it. | ❌ | 
 | `Cowsay` | The Cow says -- MOOOOO**VEEEEEE BIIITCH** | ✅ | 
-| `Facepalm` | Hey did that user say some dumb shit? Facepalm it! | ✅ | 
-| `Garbage` | Show everyone who's garbage. Show em'.. Show em' yourself. you piece of shit. | ✅ | 
-| `Hates` | Show everyone the 4 things you hate the most | ✅ |  
+| `Facepalm` | Hey did that user say some dumb shit? Facepalm it! | ❌ | 
+| `Garbage` | Show everyone who's garbage. Show em'.. Show em' yourself. you piece of shit. | ❌ | 
+| `Hates` | Show everyone the 4 things you hate the most | ❌ |  
 | `Jpeg` | JPEG quality a url photo. | ✅ |  
 | `Magik` | MAGIK quality a url photo. | ✅ | 
-| `Gay` | Hey, support the gays. Show the support. Colour that avatar. | ✅ | 
-| `Sniper` | That TF2 sniper is FUCKING terrified of you. | ✅ | 
-| `Triggered` | **T R I G G E R E D**.gif | ✅ |  
+| `Gay` | Hey, support the gays. Show the support. Colour that avatar. | ❌ | 
+| `Sniper` | That TF2 sniper is FUCKING terrified of you. | ❌ | 
+| `Triggered` | **T R I G G E R E D**.gif | ❌ |  
 | `Tweet` | Mock up text from any twitter name. [RealDonaldTrump](https://twitter.com/realDonaldTrump?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) I'm coming for you. | ✅ | 
-| `VaultBoy` | I've always wanted to be a Fallout survivor | ✅ |  
-| `VirtualReality` | This is so realistic. I wanna cry | ✅ | 
+| `VaultBoy` | I've always wanted to be a Fallout survivor | ❌ |  
+| `VirtualReality` | This is so realistic. I wanna cry | ❌ | 
 
+Due to an API being down at this moment due to things, certain commands now don't work sadly. There is no certainty it'll come back up so these commands may archive.
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
 ## 𝗣𝗟𝗔𝗬𝗘𝗥-𝗦𝗧𝗔𝗧𝗦
