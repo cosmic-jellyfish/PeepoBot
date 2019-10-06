@@ -8,11 +8,6 @@
 
 ____
 
-Peepo automatically creates a role called - **peepo:muted** when using `$mute` command
-
-When using `$mute` I haven't coded an unmute, so make the times accurate or remove them from the **peepo:muted** role.
-
-
 
 # Table of Contents
 [**HELP** Commands](https://github.com/peepoboi/PeepoBot#%F0%9D%97%9B%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%A3)
@@ -203,19 +198,7 @@ Due to an API being down at this moment due to things, certain commands now don'
 
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
-| `Ban`  | Bans the specified user from your Discord server and removes 7 days of their message history. | ✅ | 
-| `Case` | Fetches any moderation action, that's placed within the moderation log channel. | ✅ |  
 | `Clear`    | Deletes a bulk of specified messages from a text channel of your Discord server. | ✅ | 
-| `ClearWarn`  | Clears all warnings from the given user. | ✅ | 
-| `Kick`   | Kicks the specified user from your Discord server. | ✅ | 
-| `ListWarns`  | 	Lists all the warned users of your Discord Server. | ✅ | 
-| `Lockdown` | Lockdown whatever channel this command is used in for a specific amount of time (*Sad face. No more porn gifs*) | ✅ |  
-| `Mute`  | Mute a specific user for a certain period of time. | ✅ |  
-| `Report` | Report a user to the Discord's server's appropriate user's.  | ✅ | 
-| `SoftBan`  | Bans & unbans the specified user, immediately, from your Discord server and removes 7 days of their message history. | ✅ | 
-| `UnBan`  | You know what this does. | ✅ | 
-| `Warn`   | Warns the specified user. If three warns are given, some action, created by the warnAction command, is taken. | ✅ | 
-| `WarnAction`  | Sets the warn action for the server {*Used for above command*}. | ✅ | 
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)   
 
