@@ -4,6 +4,8 @@
 
 # Peepo Bot Command list:
 ##### Support server - [CLICK ME](https://discord.gg/ZCjrs9Z)
+##### Invite ME - [CLICK ME](
+https://discordapp.com/api/oauth2/authorize?client_id=498307423342166026&permissions=8&scope=bot)
 ##### `Prefix is $`.
 
 ____
