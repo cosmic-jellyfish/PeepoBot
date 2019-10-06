@@ -1,3 +1,38 @@
+# Changelog - `6/10/19`
+***
+
+### Removed
+***
+| Command    | Description |
+| :------------- | -------------: |
+| `belikebill` | was removed. [ FUN MODULE ]    |
+| `$belikebill` | was removed. [ FUN MODULE ] |
+| `$beautiful` was removed. [IMAGE MANIPULATION ] |
+| `$bobross` was removed. [ IMAGE MANIPULATION ] |
+| `$changemymind` was removed. [ IMAGE MANIPULATION ] |
+| `$confused` was removed. [ IMAGE MANIPULATION ] |
+| `$faceplam` was removed. [ IMAGE MANIPULATION ] |
+| `$garbage` was removed. [ IMAGE MANIPULATION ] |
+| `$hates` was removed. [ IMAGE MANIPULATION ] |
+| `$gay` was removed. [ IMAGE MANIPULATION ] |
+| `$sniper` was removed. [ IMAGE MANIPULATION ] |
+| `$triggered` was removed. [ IMAGE MANIPULATION ] |
+| `$vaultboy` was removed. [ IMAGE MANIPULATION ] | 
+| `$virtualreality` was removed. [ IMAGE MANIPULATION ] |
+
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+
+   
+### PERSONAL NOTE
+***
+All deleted commands are uploaded now on the Github as a preserved copy, they will make a return if the API for them returns. Otherwise enjoy looking internally of Peepo you weirdo.
+
+
+***
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+***
+
 # Changelog - `14/04/19`
 ***
 
