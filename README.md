@@ -1,6 +1,6 @@
 ![Peepo](https://media3.giphy.com/media/ZhHC3DGCUwVi0/giphy.gif "Meme bot")
 
-`## Peepo Version - 1.3 - ALPHA ##`
+`## Peepo Version - 1.4 - ALPHA ##`
 
 # Peepo Bot Command list:
 ##### Support server - [CLICK ME](https://discord.gg/ZCjrs9Z)
@@ -55,8 +55,6 @@ ____
 
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
-| `Slots`  | Spins the reels of the slot machine and shows you the result. (*Pointless really*) | ✅ | 
-| `ThisOrThat`  | Asks a this or that question.  | ✅ | 
 | `WouldYouRather` | Asks a would you rather question.  | ✅ | 
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
@@ -111,8 +109,6 @@ ____
 | Command  | Description | Status | 
 | ------------- | ------------- | -------------: |
 | `Beans` | Bean you, bean me. Bean everybody in the world. | ✅ | 
-| `BeLikeBill` |    Send a "be like bill meme" to make you feel morally superior to others. | ✅ | 
-| `BlockText` | Sends the given text as text emojis. | ✅ | 
 | `Christmas` | Advent-Calendar, runs from 1st to 24th of December. Get yourself a gift daily. 120+ possibilities. | ✅ | 
 | `Clapify` | I 👏 want 👏 more 👏 cake | ✅ | 
 | `Compliment` | Compliment a user, since you couldn't think of one yourself. | ✅ | 
@@ -180,18 +176,6 @@ Due to an API being down at this moment due to things, certain commands now don'
 | `Rainbow6`     |   Get stats of any Rainbow Six player. | ✅ | 
 
 *Adding new ones soon. Some API'S were removed*
-
-![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
-
-## 𝗠𝗜𝗦𝗖
-
-| Command  | Description | Status | 
-| ------------- | ------------- | -------------: |
-| `EndPoll`     |  Ends a poll and shows the results. (*if any*)| ✅ | 
-| `IAm`     |   Adds yourself to a 'Self-Assignable Role' if the server has any. | ✅ | 
-| `IAmNot`     |   Removes yourself from a 'Self-Assignable Role'. | ✅ | 
-| `Poll`     |   Create a poll with 2 options and set a time (*Default time if not provided is 60 minutes*) | ✅ | 
-| `PollStats`     |   Get information on a poll that is running. | ✅ | 
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
