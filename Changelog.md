@@ -7,18 +7,18 @@
 | :------------- | -------------: |
 | `belikebill` | was removed. [ FUN MODULE ]    |
 | `$belikebill` | was removed. [ FUN MODULE ] |
-| `$beautiful` was removed. [IMAGE MANIPULATION ] |
-| `$bobross` was removed. [ IMAGE MANIPULATION ] |
-| `$changemymind` was removed. [ IMAGE MANIPULATION ] |
-| `$confused` was removed. [ IMAGE MANIPULATION ] |
-| `$faceplam` was removed. [ IMAGE MANIPULATION ] |
-| `$garbage` was removed. [ IMAGE MANIPULATION ] |
-| `$hates` was removed. [ IMAGE MANIPULATION ] |
-| `$gay` was removed. [ IMAGE MANIPULATION ] |
-| `$sniper` was removed. [ IMAGE MANIPULATION ] |
-| `$triggered` was removed. [ IMAGE MANIPULATION ] |
-| `$vaultboy` was removed. [ IMAGE MANIPULATION ] | 
-| `$virtualreality` was removed. [ IMAGE MANIPULATION ] |
+| `$beautiful` | was removed. [IMAGE MANIPULATION ] |
+| `$bobross` | was removed. [ IMAGE MANIPULATION ] |
+| `$changemymind` | was removed. [ IMAGE MANIPULATION ] |
+| `$confused` | was removed. [ IMAGE MANIPULATION ] |
+| `$faceplam` | was removed. [ IMAGE MANIPULATION ] |
+| `$garbage` | was removed. [ IMAGE MANIPULATION ] |
+| `$hates` | was removed. [ IMAGE MANIPULATION ] |
+| `$gay` | was removed. [ IMAGE MANIPULATION ] |
+| `$sniper` | was removed. [ IMAGE MANIPULATION ] |
+| `$triggered` | was removed. [ IMAGE MANIPULATION ] |
+| `$vaultboy` | was removed. [ IMAGE MANIPULATION ] | 
+| `$virtualreality` | was removed. [ IMAGE MANIPULATION ] |
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
