@@ -54,6 +54,7 @@ All deleted commands are uploaded now on the Github as a preserved copy, they wi
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 ***
+[hide]
 
 # Changelog - `14/04/19`
 ***
@@ -507,3 +508,5 @@ All NSFW commands seem to be pissed off. They're not fetching, and the data is a
     I know of issues, you're planning / using this bot whilst it's under-going heavy coding. 
     If you find more bugs or non-working things please contact me (Cake#0002) 
     or use `$bugreport <text>` to notify me.    
+
+[/hide]
