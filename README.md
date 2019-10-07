@@ -1,6 +1,6 @@
 ![Peepo](https://media3.giphy.com/media/ZhHC3DGCUwVi0/giphy.gif "Meme bot")
 
-`## Peepo Version - 1.4 - ALPHA ##`
+`## Peepo Version - 1.4.1 - ALPHA ##`
 
 # Peepo Bot Command list:
 ##### Support server - [CLICK ME](https://discord.gg/ZCjrs9Z)
@@ -91,6 +91,7 @@ ____
 | `LaO` | Law AND ORDER! DUN DUN. |  ✅ |
 | `Lion` | Iconic lion-king theme thing. |  ✅ |
 | `ManTits`   | Plays a sad song about having man-tits. | ✅ | 
+| `Moan` | Wii bowling moans! Nice! | ✅ | 
 | `Mystate`   | My state of mind. | ✅ | 
 | `Rollme` | This world is gonna roll me. | ✅ |
 | `Scoobs` | Yo scoobs, that's whack. | ✅ |
@@ -118,6 +119,7 @@ ____
 | `Ship`      |   Combines two or more mentioned user's names. | ✅ | 
 | `Skyrim` | I use to write full descriptions until I took an arr-- | ✅ | 
 | `Slap`   |   User being a bitch? Slap them back into place. | ✅ | 
+| `Spook` | It's spookTOBER, get spooky. | ✅ | 
 | `Vaporwave` | ＴＨＩＳ ＩＳ ＣＯＯＬ| ✅ | 
 | `Vine` | Well ain't this just a classic. |  ✅ | 
  
