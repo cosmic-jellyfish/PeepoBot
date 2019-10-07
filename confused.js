@@ -1,7 +1,7 @@
 /*
-* Command: $changemymind
+* Command: $confused
 * Author: Cake#0002
-* Description: Change my mind meme with text
+* Description: i is mega confusion
 */
 
 const Discord = require('discord.js');
