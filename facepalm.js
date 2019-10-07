@@ -1,7 +1,7 @@
 /*
-* Command: $changemymind
+* Command: $facepalm
 * Author: Cake#0002
-* Description: Change my mind meme with text
+* Description: generate a humungus faceplam
 */
 
 const Discord = require('discord.js');
