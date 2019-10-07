@@ -11,11 +11,7 @@
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
    
-### PERSONAL NOTE
-***
 
-
-***
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 ***
