@@ -8,12 +8,11 @@
 | `spook` | was added. [ FUN MODULE ]    |
 | `moan` | was added. [ VOICE ] |
 
-![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 
-   
 
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
 ![LINE](https://kathleenhalme.com/images/dividers-transparent-simple-1.png)    
+
 ***
 
 # Changelog - `6/10/19`
