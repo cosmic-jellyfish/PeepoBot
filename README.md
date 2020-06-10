@@ -1,7 +1,7 @@
 ![Peepo](https://media3.giphy.com/media/ZhHC3DGCUwVi0/giphy.gif "Meme bot")
 
 `## Peepo Version - 1.4.1 - ALPHA ##`
-
+`## INITIATE_RESURRECTION_PROTOCOL ##`
 # Peepo Bot Command list:
 ##### Support server - [CLICK ME](https://discord.gg/ZCjrs9Z)
 ##### Invite ME - [CLICK ME](https://discordapp.com/api/oauth2/authorize?client_id=498307423342166026&permissions=8&scope=bot)
