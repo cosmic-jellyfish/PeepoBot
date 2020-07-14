@@ -30,17 +30,5 @@ exports.exec = (Peepo, message) => {
 };
 
 
-exports.config = {
-  aliases: [],
-  enabled: true
-};
+/* * * */
 
-exports.help = {
-  name: 'neo',
-  description: 'Fetch how many near-earth Objects are circulating around Earth.',
-  botPermission: '',
-  userTextPermission: '',
-  userVoicePermission: '',
-  usage: 'neo',
-  example: []
-};
