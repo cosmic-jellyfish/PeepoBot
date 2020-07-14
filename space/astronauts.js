@@ -28,17 +28,4 @@ exports.exec = (Peepo, message) => {
 };
 
 
-exports.config = {
-  aliases: [],
-  enabled: true
-};
-
-exports.help = {
-  name: 'astronauts',
-  description: 'Fetch how many Astronauts are currently aboard the ISS.',
-  botPermission: '',
-  userTextPermission: '',
-  userVoicePermission: '',
-  usage: 'astronauts',
-  example: []
-};
+/* * * */
