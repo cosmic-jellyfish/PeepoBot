@@ -46,17 +46,4 @@ exports.exec = (Peepo, message) => {
 };
 
 
-exports.config = {
-  aliases: [],
-  enabled: true
-};
-
-exports.help = {
-  name: 'earth',
-  description: 'Fetch an image of Earth.',
-  botPermission: '',
-  userTextPermission: '',
-  userVoicePermission: '',
-  usage: 'earth',
-  example: []
-};
+/* * * */
