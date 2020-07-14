@@ -28,17 +28,5 @@ exports.exec = (Peepo, message) => {
 };
 
 
-exports.config = {
-  aliases: [],
-  enabled: true
-};
+/* * * */
 
-exports.help = {
-  name: 'iss',
-  description: 'Fetch the current location of the ISS. (International Space Station)',
-  botPermission: '',
-  userTextPermission: '',
-  userVoicePermission: '',
-  usage: 'iss',
-  example: []
-};
