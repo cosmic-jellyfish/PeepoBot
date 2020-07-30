@@ -4,7 +4,7 @@
 
 `## INITIATE_RESURRECTION_PROTOCOL ##`
 # Peepo Bot Command list:
-##### BOT IS CURRENTL OFFLINE / DEAD. NO ETA.
+##### BOT IS CURRENTLY OFFLINE / DEAD. NO ETA.
 ##### `Prefix is $`.
 
 ____
