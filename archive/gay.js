@@ -1,6 +1,6 @@
 /*
 * Command: $gay
-* Author: Cake#0002
+* Author: Cake#0585
 * Description: Ya boy has a rainbow flag.
 */
 
