@@ -1,6 +1,6 @@
-﻿/*
+/*
 * Command: $virtualreality
-* Author: Cake#0002
+* Author: Cake#0585
 * Description: Am I in real life or not?
 */
 
