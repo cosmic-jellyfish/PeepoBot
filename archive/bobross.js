@@ -1,6 +1,6 @@
 /*
 * Command: $bobross
-* Author: Cake#0002
+* Author: Cake#0585
 * Description: Bob ross will paint your avatar
 */
 
