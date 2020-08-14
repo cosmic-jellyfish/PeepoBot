@@ -1,6 +1,6 @@
 /*
 * Command: $beautiful
-* Author: Cake#0002
+* Author: Cake#0585
 * Description: Now this is beautiful (includes avatars)
 */
 
