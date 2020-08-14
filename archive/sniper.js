@@ -1,6 +1,6 @@
-﻿/*
+/*
 * Command: $sniper
-* Author: Cake#0002
+* Author: Cake#0585
 * Description: Some sniper scope with avatar
 */
 
