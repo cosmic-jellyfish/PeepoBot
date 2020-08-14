@@ -1,6 +1,6 @@
-﻿/*
+/*
 * Command: $vaultboy
-* Author: Cake#0002
+* Author: Cake#0585
 * Description: VAULT BOY. VAULT BOY. VAULT BOY.
 */
 
