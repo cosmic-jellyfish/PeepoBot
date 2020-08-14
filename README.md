@@ -7,6 +7,9 @@
 ##### BOT IS CURRENTLY OFFLINE / DEAD. NO ETA.
 ##### `Prefix is $`.
 
+##### This bot is and never will be focused on music-playing or moderation, there is heaps of bots out there to fill those needs. I ain't about that shit. Memes and fun is the soul of this bot. Commands come and go all the time due to the API's dying and other unforeseen  things, the list below is forever changing due to the stated reasons, but I do emphasis that this is a meme/fun-focused bot. 
+
+#### NSFW commands are now deprecated as reddit fetching nsfw posts are no longer allowed. No alternative except for weeb shit and I ain't having that. Guess you're going to have to google your porn now.
 ____
 
 
@@ -25,12 +28,13 @@ ____
 
 [**PLAYER-STATS** Commands](https://github.com/peepoboi/PeepoBot#%F0%9D%97%9C%F0%9D%97%A0%F0%9D%97%94%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%A0%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%9C%F0%9D%97%A3%F0%9D%97%A8%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1)
 
+[**SPACE** Commands](https://github.com/peepoboi/PeepoBot#s%E1%B4%98%E1%B4%80%E1%B4%84%E1%B4%87)
+
 [**MODERATION** Commands](https://github.com/peepoboi/PeepoBot#%F0%9D%97%A0%F0%9D%97%A2%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1)
 
-[**NSFW is now deprecated as reddit fetching nsfw posts are no longer allowed. No alternative except for weeb shit and I ain't having that**]
-____
-
-![LINE](https://i.imgur.com/ZXVPFHN.png)    
+<p align="center">
+  <img src="https://i.imgur.com/ZXVPFHN.png">
+</p>   
 
 ## ʜᴇʟᴘ
 
@@ -42,7 +46,9 @@ ____
 | `Help`     | Shows help on the specified command.   | ✅ | 
 | `Suggest` | Send a suggestion report directly to my designated channel.| ✅ |
 
-![LINE](https://i.imgur.com/ZXVPFHN.png)    
+<p align="center">
+  <img src="https://i.imgur.com/ZXVPFHN.png">
+</p>   
 
 ## ɢᴀᴍᴇs
 
@@ -51,7 +57,9 @@ ____
 | `Why` | Asks a why question.  | ✅ | 
 | `WouldYouRather` | Asks a would you rather question.  | ✅ | 
 
-![LINE](https://i.imgur.com/ZXVPFHN.png)    
+<p align="center">
+  <img src="https://i.imgur.com/ZXVPFHN.png">
+</p>
 
 ## ɪɴғᴏ
 
@@ -72,7 +80,9 @@ ____
 | `UserInfo`  | Shows information of a specified user of your Discord server. | ✅ | 
 | `UserLookup`   | 	Fetches basic information of a user from Discord. | ✅ | 
 
-![LINE](https://i.imgur.com/ZXVPFHN.png)    
+<p align="center">
+  <img src="https://i.imgur.com/ZXVPFHN.png">
+</p>   
 
 ## ᴠᴏɪᴄᴇ
 
@@ -97,7 +107,9 @@ ____
 | `Thot` | Plays "**BE GONE THOT**": | ✅ | 
 | `ZING` | Plays.. Well. Play it. I won't share this one. | ✅ | 
 
-![LINE](https://i.imgur.com/ZXVPFHN.png)    
+<p align="center">
+  <img src="https://i.imgur.com/ZXVPFHN.png">
+</p> 
   
 ## ғᴜɴ
 
@@ -117,7 +129,9 @@ ____
 | `Vaporwave` | ＴＨＩＳ ＩＳ ＣＯＯＬ| ✅ | 
 | `Vine` | Well ain't this just a classic. |  ✅ | 
  
-![LINE](https://i.imgur.com/ZXVPFHN.png)    
+<p align="center">
+  <img src="https://i.imgur.com/ZXVPFHN.png">
+</p>    
 
 ## ɪᴍᴀɢᴇ-ғᴇᴛᴄʜᴇs
 
@@ -131,7 +145,9 @@ ____
 | `Fox` | Fetch a fox. |  ✅ | 
 | `Meme` | Fetch a dank meme. | ✅ | 
  
-![LINE](https://i.imgur.com/ZXVPFHN.png)    
+<p align="center">
+  <img src="https://i.imgur.com/ZXVPFHN.png">
+</p>
 
 ## ɪᴍᴀɢᴇ-ᴍᴀɴɪᴘᴜʟᴀᴛɪᴏɴ
 
@@ -144,8 +160,9 @@ ____
 | `Magik` | MAGIK quality a url photo. | ✅ | 
 | `Tweet` | Mock up text from any twitter name. [RealDonaldTrump](https://twitter.com/realDonaldTrump?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) I'm coming for you. | ✅ | | 
 
-Due to an API being down at this moment due to things, certain commands now don't work sadly. There is no certainty it'll come back up so these commands may archive.
-![LINE](https://i.imgur.com/ZXVPFHN.png)    
+<p align="center">
+  <img src="https://i.imgur.com/ZXVPFHN.png">
+</p>  
 
 ## ᴘʟᴀʏᴇʀ-sᴛᴀᴛs
 
@@ -158,7 +175,9 @@ Due to an API being down at this moment due to things, certain commands now don'
 
 *Adding new ones soon. Some API'S were removed*
 
-![LINE](https://i.imgur.com/ZXVPFHN.png)    
+<p align="center">
+  <img src="https://i.imgur.com/ZXVPFHN.png">
+</p>  
 
 ## sᴘᴀᴄᴇ
 
@@ -169,7 +188,9 @@ Due to an API being down at this moment due to things, certain commands now don'
 | `Iss`  | Stealing ISS's current location data. | ✅ | 
 | `neo`   | Oh god. OH GOD! How many Objects are near EARTH?! (*Prepare the shelter!*) | ✅ | 
 
-![LINE](https://i.imgur.com/ZXVPFHN.png)    
+<p align="center">
+  <img src="https://i.imgur.com/ZXVPFHN.png">
+</p>   
 
 ## ᴍᴏᴅᴇʀᴀᴛɪᴏɴ
 
@@ -178,4 +199,6 @@ Due to an API being down at this moment due to things, certain commands now don'
 | `Clear`    | Deletes a bulk of specified messages from a text channel of your Discord server. | ✅ | 
 | `Lockdown`    | Lockdown whatever channel this command is used in for a specific amount of time (Sad face. No more porn gifs) | ✅ | 
 
-![LINE](https://i.imgur.com/ZXVPFHN.png)   
+<p align="center">
+  <img src="https://i.imgur.com/ZXVPFHN.png">
+</p>   
