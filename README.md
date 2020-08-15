@@ -158,6 +158,7 @@ ____
 | `Cowsay` | The Cow says -- MOOOOO**VEEEEEE BIIITCH** | ✅ | 
 | `Jpeg` | JPEG quality a url photo. | ✅ |  
 | `Magik` | MAGIK quality a url photo. | ✅ | 
+| `QR` | Make a cool QR code for all your no-friends to inspect. | ✅ | 
 | `Tweet` | Mock up text from any twitter name. [RealDonaldTrump](https://twitter.com/realDonaldTrump?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) I'm coming for you. | ✅ | | 
 
 <p align="center">
